@@ -1,5 +1,5 @@
 <Table>
-	<Meta Author="Canek77 v.1.0"/>
+	<Meta Author="Canek77 v.1.1"/>
 	<!---Главное меню---->
 	<Translation Original="Player" Replace="Игрок"/>
 	<Translation Original="Options that affect your player." Replace="Опции, которые влияют на игрока."/>
@@ -69,7 +69,7 @@
 	<Translation Original="Set the menu sound theme." Replace="Устанавливает звуковую тему"/>
 	<Translation Original="Check for Updates" Replace="Проверить обновления"/>
 	<Translation Original="Emergency Reset" Replace="Аварийный сброс"/>
-	<Translation Original="This will RESET ALL toggles and values to default." Replace="Сбросить все настрйоки к значениям по умолчанию"/>
+	<Translation Original="This will RESET ALL toggles and values to default." Replace="Сбросить все настройки к значениям по умолчанию"/>
 	<Translation Original="Restart Game" Replace="Перезапустить игру"/>
 	<Translation Original="Relaunches the game." Replace="Перезапускает игру."/>
 	<Translation Original=" [F12] assign Hotkey" Replace="[F12] Назначить горячую клавишу"/>
@@ -131,12 +131,12 @@
 
 	<!---Главное меню -> Спаунер -> Транспорт -> Опции--->
 	<Translation Original="Custom Plate" Replace="Пользовательская пластина"/>
-	<Translation Original="Spawn Chrome" Replace="Получать хромированный цвет"/>
+	<Translation Original="Spawn Chrome" Replace="Получить хромированный цвет"/>
 	<Translation Original="Custom Color" Replace="Пользовательский цвет"/>
 	<Translation Original="Vehicle Color" Replace="Цвет транспорта"/>
 	<Translation Original="Delete old Vehicle" Replace="Заменять предыдущий транспорт"/>
 	<Translation Original="Spawn in Vehicle" Replace="Появляться в транспорте"/>
-	<Translation Original="Spawn Max Upgraded" Replace="Получать максимальную модификацию"/>
+	<Translation Original="Spawn Max Upgraded" Replace="Получить максимальную модификацию"/>
 	<Translation Original="Bypass" Replace="Обход"/>
 	
 	<Translation Original="Home" Replace="Главное меню"/>
@@ -162,13 +162,13 @@
 	<Translation Original="HUD Colors" Replace="Цвета HUD"/>
 	<Translation Original="Overlay Settings" Replace="Настройки наложения"/>
 	<Translation Original="Train Ride" Replace="Поездка на поезде"/>
-	<Translation Original="Particle Man" Replace="Человек из частиц"/>
+	<Translation Original="Particle Man" Replace="Эффекты для персонажа"/>
 	<Translation Original="Friendlist" Replace="Список друзей"/>
 	<Translation Original="Gameplay cam zoom" Replace="Геймплейный зум камеры"/>
-	<Translation Original="GTA 2 Cam" Replace="GTA 2 Камера"/>
-	<Translation Original="No Clip" Replace="Без обрезки"/>
-	<Translation Original="Container Rider" Replace="Контейнерный Райдер"/>
-	<Translation Original="Air Walk / Drive" Replace="Воздушная прогулка / Драйв"/>
+	<Translation Original="GTA 2 Cam" Replace="Вид сверху"/>
+	<Translation Original="No Clip" Replace="No Clip"/>
+	<Translation Original="Container Rider" Replace="Контейнерный гонщик"/>
+	<Translation Original="Air Walk / Drive" Replace="Воздушная прогулка"/>
 	<Translation Original="Freecam" Replace="Свободная камера"/>
 	<Translation Original="Remove Fog of War" Replace="Убрать туман войны"/>
 	<Translation Original="Cap FPS" Replace="Ограничение FPS"/>
@@ -178,14 +178,14 @@
 	<Translation Original="Disable Flight Music" Replace="Отключить полетную музыку"/>
 	<Translation Original="Disable Wanted Music" Replace="Отключить разыскиваемую музыку"/>
 	<Translation Original="Force MP Audio" Replace="Мощность MP аудио"/>
-	<Translation Original="Decrease Graphics" Replace="Уменьшить графику"/>
-	<Translation Original="Adjust Global LOD" Replace="Настроить глобальный уровень детализации"/>
+	<Translation Original="Decrease Graphics" Replace="Низкая графика"/>
+	<Translation Original="Adjust Global LOD" Replace="Высокий уровень детализации"/>
 	<Translation Original="Pause Game" Replace="Приостановить игру"/>
-	<Translation Original="Remove Weapon Wheel Slomo" Replace="Убрать сломо с колесом оружия"/>
+	<Translation Original="Remove Weapon Wheel Slomo" Replace="Убрать замедление с колеса оружия"/>
 	<Translation Original="Send Console Message" Replace="Отправить консольное сообщение"/>
 	<Translation Original="About Rampage" Replace="О Rampage"/>
-	<Translation Original="Script Monitor" Replace="Монитор сценариев"/>
-	<Translation Original="Script Terminator" Replace="Терминатор сценария"/>
+	<Translation Original="Script Monitor" Replace="Мониторинг скриптов"/>
+	<Translation Original="Script Terminator" Replace="Остановка скриптов"/>
 	<Translation Original="Script Loader" Replace="Загрузчик скриптов"/>
 
 	<!---Главное меню -> Разное -> Верховая езда на животных (Сингл)--->
@@ -302,4 +302,138 @@
 	<Translation Original="Delete last creation" Replace="Удалить последнее созданное"/>	
 	<Translation Original="Unload All" Replace="Выгрузить всё"/>	
 	<Translation Original="Reload List" Replace="Обновить список"/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>		
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>		
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>		
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>		
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
 </Table>
