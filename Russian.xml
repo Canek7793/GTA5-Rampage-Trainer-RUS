@@ -217,6 +217,7 @@
 	<Translation Original="json Loader" Replace="Загрузить json"/>
 	<Translation Original="xml Loader" Replace="Загрузить xml"/>
 	
+	<!---Главное меню -> Игрок--->
 	<Translation Original="Wardrobe" Replace="Гардероб"/>
 	<Translation Original="Walk Style" Replace="Стиль ходьбы"/>
 	<Translation Original="Vision" Replace="Видение"/>
