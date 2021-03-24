@@ -1,0 +1,172 @@
+<!---
+This is an example Language file here you can add more translations.
+---->
+<Table>
+	<Meta Author="Canek77 v.1.0"/>
+	<Translation Original="Player" Replace="Игрок"/>
+	<Translation Original="Weapon" Replace="Оружие"/>
+	<Translation Original="Vehicle" Replace="Транспорт"/>
+	<Translation Original="Teleport" Replace="Телепорт"/>
+	<Translation Original="Spawner" Replace="Спаунер"/>
+	<Translation Original="Spooner" Replace="Спунер"/>
+	<Translation Original="World" Replace="Мир"/>
+	<Translation Original="Miscellaneous" Replace="Разное"/>
+	<Translation Original="Character Stats" Replace="Статистика персонажа"/>
+	<Translation Original="Settings" Replace="Настройки"/>
+
+	<Translation Original="Search" Replace="Поиск"/>
+	<Translation Original="Core" Replace="Основной"/>
+	<Translation Original="Window Manager" Replace="Оконный менеджер"/>
+	<Translation Original="Extended UI" Replace="Пользовательский интерфейс"/>
+	<Translation Original="Theme" Replace="Темы"/>
+	<Translation Original="Plugins" Replace="Плагины"/>
+	<Translation Original="Language" Replace="Языки"/>
+	<Translation Original="Hotkey Manager" Replace="Менеджер горячих клавиш"/>
+	<Translation Original="Load / Save" Replace="Загрузить / Сохранить"/>
+	<Translation Original="Navigation Delay" Replace="Задержка навигации"/>
+	<Translation Original="Value Delay" Replace="Задержка значения"/>
+	<Translation Original="Open Key" Replace="Клавиша открытия"/>
+	<Translation Original="Gamepad Open Key" Replace="Клавиша открытия геймпада"/>
+	
+	<Translation Original="Search for an Option" Replace="Искать варианты"/>
+	<Translation Original="Enter Option name" Replace="Введите имя параметра"/>	
+	
+	<Translation Original="Debug" Replace="Отладка"/>
+	<Translation Original="Mouse controls" Replace="Управление мышью"/>
+	<Translation Original="Controller controls" Replace="Контроллер управления"/>
+	<Translation Original="Tooltip box" Replace="Всплывающая подсказка"/>
+	<Translation Original="Menus sounds" Replace="Звуки меню"/>
+	<Translation Original="Sound Theme" Replace="Звуковая тема"/>
+	<Translation Original="Check for Updates" Replace="Проверить обновления"/>
+	<Translation Original="Emergency Reset" Replace="Аварийный сброс"/>
+	<Translation Original="Restart Game" Replace="Перезапустить игру"/>
+	
+	<Translation Original="Classic" Replace="Классический"/>
+	<Translation Original="Clicky" Replace="Клики"/>
+	
+	<Translation Original="Advanced Logging" Replace="Расширенное ведение журнала"/>
+	<Translation Original="Clear Brief" Replace="Очистить бриф"/>
+	<Translation Original="Throw Exception" Replace="Сбросить исключения"/>
+	
+	<Translation Original="Default" Replace="По умолчанию"/>
+	<Translation Original="Russian" Replace="Русский"/>
+	
+	<Translation Original="No Plugins found" Replace="Плагины не найдены"/>
+	
+	<Translation Original="Teleport map" Replace="Карта телепорта"/>
+	<Translation Original="Vehicle previews" Replace="Превью автомобилей"/>
+	<Translation Original="Window Activators" Replace="Активаторы окон"/>
+	<Translation Original="Smooth scrolling" Replace="Плавная прокрутка"/>
+	<Translation Original="Scroll Anim Speed" Replace="Скорость прокрутки анимации"/>
+	<Translation Original="Toggle Globe" Replace="Переключить глобус"/>
+	
+	<Translation Original="Please enter a Vehicle first." Replace="Пожалуйста, сначала введите автомобиль."/>
+	
+    <Translation Original="Unlock all Achievements" Replace="Разблокировать все достижения"/>
+	<Translation Original="Money" Replace="Деньги"/>
+	<Translation Original="Stats" Replace="Статистика"/>
+
+    <Translation Original="Max stats Michael" Replace="Максимальная статистика Майкла"/>
+	<Translation Original="Max stats Franklin" Replace="Максимальная статистика Франклина"/>
+	<Translation Original="Max stats Trevor" Replace="Максимальная статистика Тревора"/>
+	
+	<Translation Original="Vehicles" Replace="Транспорт"/>
+	<Translation Original="Objects" Replace="Объекты"/>
+	<Translation Original="Peds" Replace="Пешеходы"/>
+	
+	<Translation Original="Options" Replace="Опции"/>
+	<Translation Original="Input model" Replace="Модель ввода"/>
+	<Translation Original="Search Vehicles" Replace="Поиск транспорта"/>
+	<Translation Original="OpenIV Loader" Replace="Загрузить из OpenIV"/>
+	<Translation Original="XML Loader" Replace="Загрузить из XML"/>
+	<Translation Original="Favourite Vehicles" Replace="Избранный транспорт"/>
+	<Translation Original="Clear" Replace="Очистить"/>
+	
+	<Translation Original="No modifications installed." Replace="Никаких модификаций не установлено."/>
+	
+	<Translation Original="Save xml vehicle" Replace="Сохранить транспорт в формате xml"/>
+	<Translation Original="No files found" Replace="Файлов не найдено"/>
+
+	<Translation Original="Custom Plate" Replace="Пользовательская пластина"/>
+	<Translation Original="Spawn Chrome" Replace="Получать хромированный цвет"/>
+	<Translation Original="Custom Color" Replace="Пользовательский цвет"/>
+	<Translation Original="Vehicle Color" Replace="Цвет транспорта"/>
+	<Translation Original="Delete old Vehicle" Replace="Заменять предыдущий транспорт"/>
+	<Translation Original="Spawn in Vehicle" Replace="Появляться в транспорте"/>
+	<Translation Original="Spawn Max Upgraded" Replace="Получать максимальную модификацию"/>
+	<Translation Original="Bypass" Replace="Обход"/>
+	
+	<Translation Original="Home" Replace="Главная"/>
+	
+	<Translation Original="Plays: -" Replace="Играть: -"/>
+	<Translation Original="Pause" Replace="Пауза"/>
+	<Translation Original="Resume" Replace="Возобновить"/>
+	<Translation Original="Stop" Replace="Стоп"/>
+	<Translation Original="Volume" Replace="Громкость"/>
+	<Translation Original="Plays: [Paused]" Replace="Играть: [Пауза]"/>
+	
+	<Translation Original="No playable files found" Replace="Воспроизводимые файлы не найдены"/>	
+	
+	<Translation Original="Yacht Spawner" Replace="Получить яхту"/>
+	<Translation Original="Animal Riding (SP)" Replace="Верховая езда на животных (Сингл)"/>
+	<Translation Original="Mp3 Player" Replace="MP3-плеер"/>
+	<Translation Original="Game Music" Replace="Игровая музыка"/>
+	<Translation Original="Mobile TV" Replace="Мобильное ТВ"/>
+	<Translation Original="Cutscene Player" Replace="Проигрыватель роликов"/>
+	<Translation Original="Radio" Replace="Радио"/>
+	<Translation Original="HUD Colors" Replace="Цвета HUD"/>
+	<Translation Original="Overlay Settings" Replace="Настройки наложения"/>
+	<Translation Original="Train Ride" Replace="Поездка на поезде"/>
+	<Translation Original="Particle Man" Replace="Человек из частиц"/>
+	<Translation Original="Friendlist" Replace="Список друзей"/>
+	<Translation Original="Gameplay cam zoom" Replace="Геймплейный зум камеры"/>
+	<Translation Original="GTA 2 Cam" Replace="GTA 2 Камера"/>
+	<Translation Original="No Clip" Replace="Без обрезки"/>
+	<Translation Original="Container Rider" Replace="Контейнерный Райдер"/>
+	<Translation Original="Air Walk / Drive" Replace="Воздушная прогулка / Драйв"/>
+	<Translation Original="Freecam" Replace="Свободная камера"/>
+	<Translation Original="Remove Fog of War" Replace="Убрать туман войны"/>
+	<Translation Original="Cap FPS" Replace="Ограничение FPS"/>
+	<Translation Original="MP Map" Replace="Карты MP"/>
+	<Translation Original="Disable Recording" Replace="Отключить запись"/>
+	<Translation Original="Disable Stunt Jumps" Replace="Отключить каскадерские прыжки"/>
+	<Translation Original="Disable Flight Music" Replace="Отключить полетную музыку"/>
+	<Translation Original="Disable Wanted Music" Replace="Отключить разыскиваемую музыку"/>
+	<Translation Original="Force MP Audio" Replace="Мощность MP аудио"/>
+	<Translation Original="Decrease Graphics" Replace="Уменьшить графику"/>
+	<Translation Original="Adjust Global LOD" Replace="Настроить глобальный уровень детализации"/>
+	<Translation Original="Pause Game" Replace="Приостановить игру"/>
+	<Translation Original="Remove Weapon Wheel Slomo" Replace="Убрать сломо с колесом оружия"/>
+	<Translation Original="Send Console Message" Replace="Отправить консольное сообщение"/>
+	<Translation Original="About Rampage" Replace="О Rampage"/>
+	<Translation Original="Script Monitor" Replace="Монитор сценариев"/>
+	<Translation Original="Script Terminator" Replace="Терминатор сценария"/>
+	<Translation Original="Script Loader" Replace="Загрузчик скриптов"/>
+
+	<Translation Original="Stop Riding" Replace="Прекратить езду"/>
+	<Translation Original="Cow Idle" Replace="Корова бездействует"/>
+	<Translation Original="Deer Idle" Replace="Олень бездействует"/>
+	<Translation Original="Deer Walk" Replace="Олень прогуливается"/>
+	<Translation Original="Deer Run" Replace="Олень бежит"/>
+
+	<Translation Original="Spawn Yacht" Replace="Создать яхту"/>
+	<Translation Original="Spawn Gunrunning Yacht" Replace="Создать яхту для торговцев оружием"/>
+	<Translation Original="Teleport to my Yacht" Replace="Телепорт на мою яхту"/>
+	<Translation Original="Teleport to Gunrunning Yacht" Replace="Телепорт на яхту для перевозки оружия"/>
+	<Translation Original="Delete Yacht" Replace="Удалить яхту"/>
+	<Translation Original="Delete Gunrunning Yacht" Replace="Удалить яхту для перевозки оружия"/>
+	
+	<Translation Original="Add Objects to Database" Replace="Добавить объекты в базу данных"/>
+	<Translation Original="Map Spooner" Replace="Карта спунер"/>
+	<Translation Original="ini Loader" Replace="Загрузить ini"/>
+	<Translation Original="json Loader" Replace="Загрузить json"/>
+	<Translation Original="xml Loader" Replace="Загрузить xml"/>
+	
+	<Translation Original="Spawn Train" Replace="Создать поезд"/>
+	<Translation Original="Control Train" Replace="Управление поездом"/>
+	<Translation Original="Train Speed" Replace="Скорость поезда"/>
+	<Translation Original="Derail Train" Replace="Поезд с рельсов"/>
+	<Translation Original="Delete Train" Replace="Удалить поезд"/>
+
+	<Translation Original="" Replace=""/>
+</Table>
