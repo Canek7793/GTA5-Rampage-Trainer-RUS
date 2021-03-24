@@ -2,15 +2,25 @@
 	<Meta Author="Canek77 v.1.0"/>
 	<!---Главное меню---->
 	<Translation Original="Player" Replace="Игрок"/>
+	<Translation Original="Options that affect your player." Replace="Опции, которые влияют на игрока."/>
 	<Translation Original="Weapon" Replace="Оружие"/>
+	<Translation Original="Customize all your weapons." Replace="Добавление и настройка всего оружия."/>
 	<Translation Original="Vehicle" Replace="Транспорт"/>
+	<Translation Original="Customize and mod your vehicle." Replace="Настройка и модификация транспорта."/>
 	<Translation Original="Teleport" Replace="Телепорт"/>
+	<Translation Original="Teleport everywhere." Replace="Телепортация куда-угодно."/>
 	<Translation Original="Spawner" Replace="Спаунер"/>
+	<Translation Original="Spawn and manage objects." Replace="Добавление и управление объектами."/>
 	<Translation Original="Spooner" Replace="Споунер"/>
+	<Translation Original="Spawn maps and modded vehicles." Replace="Добавление карт и транспорта из модификаций."/>
 	<Translation Original="World" Replace="Мир"/>
+	<Translation Original="Control the environment." Replace="Управление окружением."/>
 	<Translation Original="Miscellaneous" Replace="Разное"/>
+	<Translation Original="Misc options." Replace="Остальные опции."/>
 	<Translation Original="Character Stats" Replace="Статистика персонажа"/>
+	<Translation Original="Edit your offline character stats." Replace="Редактирование оффлайн статистики персонажа."/>
 	<Translation Original="Settings" Replace="Настройки"/>
+	<Translation Original="Customize Rampage to your own like." Replace="Настройки Rampage."/>
 
 	<!---Главное меню -> Настройки---->
 	<Translation Original="Search" Replace="Поиск"/>
