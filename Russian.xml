@@ -216,4 +216,90 @@
 	<Translation Original="ini Loader" Replace="Загрузить ini"/>
 	<Translation Original="json Loader" Replace="Загрузить json"/>
 	<Translation Original="xml Loader" Replace="Загрузить xml"/>
+	
+	<Translation Original="Wardrobe" Replace="Гардероб"/>
+	<Translation Original="Walk Style" Replace="Стиль ходьбы"/>
+	<Translation Original="Vision" Replace="Видение"/>
+	<Translation Original="Nightvision" Replace="Ночное виденье"/>
+	<Translation Original="Heatvision" Replace="Тепловизор"/>
+	<Translation Original="Clear all" Replace="Очистить все"/>
+	<Translation Original="Moods" Replace="Настроение"/>
+	<Translation Original="Animations" Replace="Анимация"/>
+	<Translation Original="Scenarios" Replace="Сценарий"/>
+	<Translation Original="Effects" Replace="Эффекты"/>
+	<Translation Original="Player Proofs" Replace="Игровые пруфы"/>
+	<Translation Original="Toggles" Replace="Режимы"/>
+	<Translation Original="Godmode" Replace="Режим бога"/>
+	<Translation Original="Auto Heal" Replace="Авто исцеление"/>
+	<Translation Original="Ghostmode" Replace="Режим невидимки"/>
+	<Translation Original="Wanted Level" Replace="Уровень розыска"/>
+	<Translation Original="Run Speed" Replace="Скорость бега"/>
+	<Translation Original="Swim Speed" Replace="Скорость плаванья"/>
+	<Translation Original="Never Wanted" Replace="Без розыска"/>
+	<Translation Original="Cops ignore player" Replace="Копы игнорят игрока"/>
+	<Translation Original="Bank" Replace="Банк"/>
+	<Translation Original="Speed" Replace="Скорость"/>
+	<Translation Original="Character" Replace="Персонаж"/>
+	<Translation Original="Ammo" Replace="Боеприпасы"/>
+	<Translation Original="Super Jump" Replace="Супер прыжок"/>
+	<Translation Original="Ultra Jump" Replace="Ультра прыжок"/>
+	<Translation Original="Ultra Run" Replace="Ультра бег"/>
+	<Translation Original="Player Opacity" Replace="Прозрачность игрока"/>
+	<Translation Original="Unlimited SP" Replace="Безлимитный SP"/>
+	<Translation Original="Fly Mode" Replace="Режим полета"/>
+	<Translation Original="Superman" Replace="Супермен"/>
+	<Translation Original="Collision" Replace="Столкновение"/>
+	<Translation Original="Midget Mode" Replace="Режим карлика"/>
+	<Translation Original="Force" Replace="Сила"/>
+	<Translation Original="Forcefield" Replace="Силовое поле"/>
+	<Translation Original="Breath Fire" Replace="Огненное дыхание"/>
+	<Translation Original="Show Bones" Replace="Показать скелет"/>
+	<Translation Original="Heal" Replace="Полное исцеление"/>
+	<Translation Original="Health" Replace="Здоровье"/>
+	<Translation Original="Instant Death" Replace="Моментальная смерть"/>
+	<Translation Original="Clone Player" Replace="Клонировать игрока"/>
+	<Translation Original="Clean Ped" Replace="Очистить одежду"/>
+	<Translation Original="Armour" Replace="Броня"/>
+	<Translation Original="Model" Replace="Модель"/>
+	<Translation Original="Movement" Replace="Передвижение"/>
+	<Translation Original="X Coord" Replace="X Ось"/>
+	<Translation Original="Y Coord" Replace="Y Ось"/>
+	<Translation Original="Z Coord" Replace="Z Ось"/>
+	<Translation Original="Location" Replace="Местоположение"/>
+	<Translation Original="On Foot" Replace="На ногах"/>
+	<Translation Original="Pitch" Replace="Подача"/>
+	<Translation Original="Roll" Replace="Падение"/>
+	<Translation Original="Yaw" Replace="Отклонение"/>
+	<Translation Original="Heading" Replace="Направление"/>
+	<Translation Original="Reset" Replace="Сброс"/>
+	<Translation Original="Normal" Replace="Нормальное"/>
+	<Translation Original="Happy" Replace="Радостное"/>
+	<Translation Original="Angry" Replace="Злое"/>
+	<Translation Original="Stressed" Replace="Стрессовое"/>
+	<Translation Original="Sleeping" Replace="Спящое"/>
+	<Translation Original="Drunk" Replace="Пьяное"/>
+	<Translation Original="Aiming" Replace="Целенаправленное"/>
+	<Translation Original="Injured" Replace="Раненое"/>
+	<Translation Original="Burning" Replace="Горющее"/>
+	<Translation Original="Death" Replace="Убитое"/>
+	<Translation Original="Smug" Replace="Самодовольное"/>
+	<Translation Original="Sulk" Replace="Обиженное"/>
+	<Translation Original="Explosions" Replace="Взрывы"/>
+	<Translation Original="Fire" Replace="Огонь"/>
+	<Translation Original="Bullets" Replace="Пули"/>
+	<Translation Original="Time" Replace="Время"/>
+	<Translation Original="Weather" Replace="Погода"/>
+	<Translation Original="Ocean" Replace="Океан"/>
+	<Translation Original="Gravity" Replace="Гравитация"/>
+	<Translation Original="Customize Rampage to your own like." Replace="Настраивайте Rampage по своему вкусу."/>
+	<Translation Original="Derail Train" Replace="Поезд с рельсов"/>
+	<Translation Original="Delete Train" Replace="Удалить поезд"/>
+	<Translation Original="Hour" Replace="Час"/>
+	<Translation Original="Minute" Replace="Минута"/>
+	<Translation Original="Second" Replace="Секунда"/>	
+	<Translation Original="Stop Time" Replace="Остановить время"/>	
+	<Translation Original="Delete File" Replace="Удалить файл"/>	
+	<Translation Original="Delete last creation" Replace="Удалить последнее созданное"/>	
+	<Translation Original="Unload All" Replace="Выгрузить всё"/>	
+	<Translation Original="Reload List" Replace="Обновить список"/>	
 </Table>
