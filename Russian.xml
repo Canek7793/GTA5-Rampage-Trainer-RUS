@@ -1,5 +1,5 @@
 <Table>
-	<Meta Author="Canek77 v.1.1"/>
+	<Meta Author="Canek77 && ameba_splinter"/>
 	<!---Главное меню---->
 	<Translation Original="Player" Replace="Игрок"/>
 	<Translation Original="Options that affect your player." Replace="Опции, которые влияют на игрока."/>
@@ -388,7 +388,38 @@
 	<Translation Original="Debug info on aimed entity." Replace="Дополнительная информация о объекте в прицеле."/>
 	<Translation Original="Delete Gun" Replace="Удаляющая пушка"/>
 	<Translation Original="Delete aimed entity." Replace="Удаляет объект в прицеле."/>
-	
+	<Translation Original="Revive dead people." Replace="Воскрешает мертвых пешеходов. Используйте электро-"/>
+	<Translation Original="Use Tazer for function. [F12] assign Hotkey" Replace="шокер для воскрешения. [F12] Назначить горячую клавишу"/>
+	<Translation Original="Gravity Gun" Replace="Гравитационная пушка"/>
+	<Translation Original="Move aimed entities." Replace="Перемещает объект в прицеле."/>
+	<Translation Original="Magnet Gun" Replace="Магнитная пушка"/>
+	<Translation Original="Attract nearby vehicles and peds." Replace="Собирает близжайший транспорт и пешеходов в область прицеливаньия."/>
+	<Translation Original="Pickup Gun" Replace="Перемещающая пушка"/>
+	<Translation Original="Pickup entities and move them around." Replace="Подтягивает объекты и перемещает их."/>
+	<Translation Original="Portal Gun" Replace="Пушка из игры Portal"/>
+	<Translation Original="Set two teleport portals." Replace="Устанавливает два телепорта."/>
+	<Translation Original="[Shift] or [A] on pad to switch portal creation. [F12] assign Hotkey" Replace="[Shift] или [A] на геймпаде выбирает следующий портал."/>
+	<Translation Original="Force Gun" Replace="Силовая пушка"/>
+	<Translation Original="Apply force to impact entity." Replace="Толкнуть объект после выстрела."/>
+	<Translation Original="Vehicle Paint Gun" Replace="Пушка для раскраски тачек"/>
+	<Translation Original="Paint impact vehicle." Replace="Меняет цвет авто случайным образом."/>
+	<Translation Original="Drive It Gun" Replace="Пушка телепорт в тачку"/>
+	<Translation Original="Teleport into impact vehicle." Replace="Телепортирует прямо в выстреленный транспорт."/>
+	<Translation Original="Weapon Laser" Replace="Лазер на оружие"/>
+	<Translation Original="Laser sight on aiming." Replace="Лазерная подстветка цели."/>
+	<Translation Original="Explosive Ammo" Replace="Разрывные боеприпасы"/>
+	<Translation Original="Shoot explosive bullets." Replace="Пули взрываются при попадании."/>
+	<Translation Original="Fire Ammo" Replace="Зажигательные боеприпасы"/>
+	<Translation Original="Shoot fire bullets." Replace="Пуля поджигает цель после попадания."/>
+	<Translation Original="One Hit Kill" Replace="Одно попадание для убийства"/>
+	<Translation Original="High Damage." Replace="Наносить огромный урон по цели."/>
+	<Translation Original="No Recoil" Replace="Без отдачи"/>
+	<Translation Original="No Weapon recoil." Replace="Отключить отдачу оружия"/>
+	<Translation Original="Explosive Melee" Replace="Кулаки ярости"/>
+	<Translation Original="Power fists." Replace="При ударах кулаками или оружием ближнего боя"/>
+	<Translation Original="Explosions on melee damage. [F12] assign Hotkey" Replace="происходит взрыв. [F12] Назначить горячую клавишу"/>
+	<Translation Original="No Parachutes" Replace="Без парашута"/>
+	<Translation Original="Disable unlimited parachutes." Replace="Отключает бесконечные парашуты."/>
 	
 	<Translation Original="Customize Rampage to your own like." Replace="Настраивайте Rampage по своему вкусу."/>
 	<Translation Original="Unload All" Replace="Выгрузить всё"/>	
