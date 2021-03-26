@@ -216,6 +216,8 @@
 	<Translation Original="ini Loader" Replace="Загрузить ini"/>
 	<Translation Original="json Loader" Replace="Загрузить json"/>
 	<Translation Original="xml Loader" Replace="Загрузить xml"/>
+	<Translation Original="Delete File" Replace="Удалить файл"/>	
+	<Translation Original="Delete last creation" Replace="Удалить последнее созданное"/>	
 	
 	<!---Главное меню -> Игрок--->
 	<Translation Original="Wardrobe" Replace="Гардероб"/>
@@ -260,6 +262,8 @@
 	<Translation Original="Instant Death" Replace="Моментальная смерть"/>
 	<Translation Original="Clone Player" Replace="Клонировать игрока"/>
 	<Translation Original="Clean Ped" Replace="Очистить одежду"/>
+	
+	<!---Главное меню -> Игрок -> Окно Player Info--->
 	<Translation Original="Armour" Replace="Броня"/>
 	<Translation Original="Model" Replace="Модель"/>
 	<Translation Original="Movement" Replace="Передвижение"/>
@@ -268,10 +272,13 @@
 	<Translation Original="Z Coord" Replace="Z Ось"/>
 	<Translation Original="Location" Replace="Местоположение"/>
 	<Translation Original="On Foot" Replace="На ногах"/>
+	<Translation Original="In Vehicle" Replace="В транспорте"/>
 	<Translation Original="Pitch" Replace="Подача"/>
 	<Translation Original="Roll" Replace="Падение"/>
 	<Translation Original="Yaw" Replace="Отклонение"/>
 	<Translation Original="Heading" Replace="Направление"/>
+	
+	<!---Главное меню -> Игрок -> Настроение--->
 	<Translation Original="Reset" Replace="Сброс"/>
 	<Translation Original="Normal" Replace="Нормальное"/>
 	<Translation Original="Happy" Replace="Радостное"/>
@@ -285,156 +292,110 @@
 	<Translation Original="Death" Replace="Убитое"/>
 	<Translation Original="Smug" Replace="Самодовольное"/>
 	<Translation Original="Sulk" Replace="Обиженное"/>
+	
+	<!---Главное меню -> Игрок -> Игровые пруфы--->
 	<Translation Original="Explosions" Replace="Взрывы"/>
 	<Translation Original="Fire" Replace="Огонь"/>
 	<Translation Original="Bullets" Replace="Пули"/>
+	
+	<!---Главное меню -> Мир--->
 	<Translation Original="Time" Replace="Время"/>
 	<Translation Original="Weather" Replace="Погода"/>
 	<Translation Original="Ocean" Replace="Океан"/>
 	<Translation Original="Gravity" Replace="Гравитация"/>
-	<Translation Original="Customize Rampage to your own like." Replace="Настраивайте Rampage по своему вкусу."/>
-	<Translation Original="Derail Train" Replace="Поезд с рельсов"/>
-	<Translation Original="Delete Train" Replace="Удалить поезд"/>
+	<Translation Original="Ped Manager" Replace="Пед менеджер"/>
+	<Translation Original="Vehicle Manager" Replace="Менеджер по транспорту"/>
+	<Translation Original="Object Manager" Replace="Диспетчер объеков"/>
+	<Translation Original="Model Swapping" Replace="Замена модели"/>
+	<Translation Original="Tornado & Black Hole" Replace="Торнадо и черная дыра"/>
+	<Translation Original="Meteor Shower" Replace="Метеоритный дождь"/>	
+	<Translation Original="Tornado" Replace="Торнадо"/>
+	<Translation Original="Enable" Replace="Включить"/>	
+	<Translation Original="black hole" Replace="Черная дыра"/>	
+	<Translation Original="Delete entities" Replace="Удалить объекты"/>	
+	<Translation Original="attraction settings" Replace="Настройки аттракциона"/>		
+	<Translation Original="Jumparound Mode" Replace="Прыгающий режим"/>
+	<Translation Original="Firework Mode" Replace="Режим фейерверка"/>	
+	<Translation Original="Radar" Replace="Радар"/>
+	<Translation Original="Decrease Ped Population" Replace="Уменьшить популяцию людей"/>
+	<Translation Original="Decrease Vehicle Population" Replace="Уменьшить количество транспорта"/>
+	<Translation Original="Delete World Pickups" Replace="Удалить мировые пакеты"/>
+	<Translation Original="Refresh Interior" Replace="Обновить интерьер"/>
+	<Translation Original="Clear Area Scale" Replace="Очистить масштаб арены"/>
+	<Translation Original="Clear Area" Replace="Очистить арену"/>
+	<Translation Original="No restricted zones" Replace="Нет запретных зон"/>
+	<Translation Original="Rain Rockets" Replace="Ракетный дождь"/>
+	<Translation Original="Blackout" Replace="Полная тьма"/>
+	
+	<!---Главное меню -> Мир -> Время--->
 	<Translation Original="Hour" Replace="Час"/>
 	<Translation Original="Minute" Replace="Минута"/>
 	<Translation Original="Second" Replace="Секунда"/>	
 	<Translation Original="Stop Time" Replace="Остановить время"/>	
-	<Translation Original="Delete File" Replace="Удалить файл"/>	
-	<Translation Original="Delete last creation" Replace="Удалить последнее созданное"/>	
+	<Translation Original="Stop current Time." Replace="Остановить текущее время."/>
+	<Translation Original="Time Cycle" Replace="Цикл времени"/>
+	<Translation Original="Time speed." Replace="Скорость времени."/>	
+	<Translation Original="Set Time" Replace="Установить время"/>	
+	<Translation Original="Set custom time." Replace="Установить собственное время."/>	
+	<Translation Original="Sunrise" Replace="Восход"/>	
+	<Translation Original="Clock set to 6:00 am" Replace="Часы установлены на 6:00 утра."/>	
+	<Translation Original="Midday" Replace="Полдень"/>
+	<Translation Original="Clock set to 12:15 pm" Replace="Часы установлены на 12:15 вечера."/>	
+	<Translation Original="Sunset" Replace="Закат"/>	
+	<Translation Original="Clock set to 19:19 pm" Replace="Часы установлены на 19:19 вечера."/>	
+	<Translation Original="Midnight" Replace="Полночь"/>	
+	<Translation Original="Clock set to 23:23 pm" Replace="Часы установлены на 23:23 ночи."/>	
+	<Translation Original="Sync System Time" Replace="Синхронизировать с системным временем"/>
+	<Translation Original="Sync's game time with real time." Replace="Синхронизация игрового времени с реальным."/>
+
+	<Translation Original="Timelapse" Replace="Промежуток времени"/>	
+	<Translation Original="Timelapse mode" Replace="Режим замедленной съемки"/>	
+	<Translation Original="Mid" Replace="Средне"/>	
+	<Translation Original="Slow" Replace="Медленно"/>	
+	<Translation Original="Fast" Replace="Быстро"/>		
+	<Translation Original="Timelapse Toggle" Replace="Переключатель таймлапса"/>
+	<Translation Original="World time transition." Replace="Перевод мирового времени."/>
+	
+	<!---Главное меню -> Оружие--->
+	<Translation Original="Manage Weapons" Replace="Управление оружием"/>	
+	<Translation Original="Manage your weapons." Replace="Добавить/убрать любые виды оружия"/>	
+	<Translation Original="Ammo Modifiers" Replace="Модификаторы стрельбы"/>	
+	<Translation Original="Modify your weapon ammo." Replace="Добавить особые эффеты при стрельбе"/>	
+	<Translation Original="Auto shoot or aim on enemey's or peds." Replace="Авто выстрел или авто прицеливание на врагов/пешеходов"/>	
+	<Translation Original="Modifiers" Replace="Настройка оружия"/>	
+	<Translation Original="Weapon modifiers (Damage, Melee Defense)" Replace="Настройка оружия в руках (урон, ближний бой и т.д.)"/>	
+	<Translation Original="Heatvision on Aiming" Replace="Тепловизор при прицеливании"/>	
+	<Translation Original="Heatvision while aiming." Replace="Активация тепловизора во время прицеливания"/>	
+	<Translation Original="Slow Motion on Aiming" Replace="Slow mo при прицеливании"/>	
+	<Translation Original="Slow time while aiming." Replace="Эффект замеделения времени во время прицеливания"/>	
+	<Translation Original="Rapid Fire" Replace="Скорострельность"/>	
+	<Translation Original="Multiply bullets." Replace="Множитель пуль."/>	
+	<Translation Original="Shoot fast bullets [F12] assign Hotkey" Replace="[F12] Назначить горячую клавишу"/>	
+	<Translation Original="Shoot fast bullets direct from gun [F12] assign Hotkey" Replace="[F12] Назначить горячую клавишу"/>	
+	<Translation Original="Rapid Gun" Replace="Скорострельность (вариант 2)"/>	
+	<Translation Original="Tenfold Bullets" Replace="Десять пуль одновременно"/>	
+	<Translation Original="Triple bullets." Replace="Увеличивает количество пуль, выстреливающих одновременно"/>	
+	<Translation Original="Shoot fast bullets in triple range. [F12] assign Hotkey" Replace="[F12] Назначить горячую клавишу"/>	
+	<Translation Original="Infinite Ammo" Replace="Бесконечные боеприпасы"/>	
+	<Translation Original="Infinitive ammo." Replace="Бесконечные боеприпасы"/>	
+	<Translation Original="No Reload" Replace="Без перезарадяки"/>
+	<Translation Original="Disables Reload anim." Replace="Отключает анимацию перезарядки."/>
+	<Translation Original="Teleport Gun" Replace="Портальная пушка"/>
+	<Translation Original="Teleport to impact coords." Replace="Телепортация по координатам выстрела."/>
+	<Translation Original="Cartoon Gun" Replace="Мультяшная пушка"/>
+	<Translation Original="Funny effects while shooting." Replace="Мультяшные эффекты при стрельбе."/>
+	<Translation Original="Debug Gun" Replace="Debug пушка"/>
+	<Translation Original="Debug info on aimed entity." Replace="Дополнительная информация о объекте в прицеле."/>
+	<Translation Original="Delete Gun" Replace="Удаляющая пушка"/>
+	<Translation Original="Delete aimed entity." Replace="Удаляет объект в прицеле."/>
+	
+	
+	<Translation Original="Customize Rampage to your own like." Replace="Настраивайте Rampage по своему вкусу."/>
 	<Translation Original="Unload All" Replace="Выгрузить всё"/>	
 	<Translation Original="Reload List" Replace="Обновить список"/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>		
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>		
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>		
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>		
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
-	<Translation Original="" Replace=""/>	
+	
+		<!---Главное меню -> Транспорт--->
+	<Translation Original="Customize" Replace="Персонализация"/>
 	<Translation Original="" Replace=""/>	
 	<Translation Original="" Replace=""/>	
 </Table>
