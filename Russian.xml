@@ -1,5 +1,5 @@
 <Table>
-	<Meta Author="Canek77 v.1.1"/>
+	<Meta Author="Canek77 ameba_splinter"/>
 	<!---Главное меню---->
 	<Translation Original="Player" Replace="Игрок"/>
 	<Translation Original="Options that affect your player." Replace="Опции, которые влияют на игрока."/>
@@ -388,7 +388,84 @@
 	<Translation Original="Debug info on aimed entity." Replace="Дополнительная информация о объекте в прицеле."/>
 	<Translation Original="Delete Gun" Replace="Удаляющая пушка"/>
 	<Translation Original="Delete aimed entity." Replace="Удаляет объект в прицеле."/>
+	<Translation Original="Revive dead people." Replace="Воскрешает мертвых пешеходов. Используйте электро-"/>
+	<Translation Original="Use Tazer for function. [F12] assign Hotkey" Replace="шокер для воскрешения. [F12] Назначить горячую клавишу"/>
+	<Translation Original="Gravity Gun" Replace="Гравитационная пушка"/>
+	<Translation Original="Move aimed entities." Replace="Перемещает объект в прицеле."/>
+	<Translation Original="Magnet Gun" Replace="Магнитная пушка"/>
+	<Translation Original="Attract nearby vehicles and peds." Replace="Собирает близжайший транспорт и пешеходов в область прицеливаньия."/>
+	<Translation Original="Pickup Gun" Replace="Перемещающая пушка"/>
+	<Translation Original="Pickup entities and move them around." Replace="Подтягивает объекты и перемещает их."/>
+	<Translation Original="Portal Gun" Replace="Пушка из игры Portal"/>
+	<Translation Original="Set two teleport portals." Replace="Устанавливает два телепорта."/>
+	<Translation Original="[Shift] or [A] on pad to switch portal creation. [F12] assign Hotkey" Replace="[Shift] или [A] на геймпаде выбирает следующий портал."/>
+	<Translation Original="Force Gun" Replace="Силовая пушка"/>
+	<Translation Original="Apply force to impact entity." Replace="Толкнуть объект после выстрела."/>
+	<Translation Original="Vehicle Paint Gun" Replace="Пушка для раскраски тачек"/>
+	<Translation Original="Paint impact vehicle." Replace="Меняет цвет авто случайным образом."/>
+	<Translation Original="Drive It Gun" Replace="Пушка телепорт в тачку"/>
+	<Translation Original="Teleport into impact vehicle." Replace="Телепортирует прямо в выстреленный транспорт."/>
+	<Translation Original="Weapon Laser" Replace="Лазер на оружие"/>
+	<Translation Original="Laser sight on aiming." Replace="Лазерная подстветка цели."/>
+	<Translation Original="Explosive Ammo" Replace="Разрывные боеприпасы"/>
+	<Translation Original="Shoot explosive bullets." Replace="Пули взрываются при попадании."/>
+	<Translation Original="Fire Ammo" Replace="Зажигательные боеприпасы"/>
+	<Translation Original="Shoot fire bullets." Replace="Пуля поджигает цель после попадания."/>
+	<Translation Original="One Hit Kill" Replace="Одно попадание для убийства"/>
+	<Translation Original="High Damage." Replace="Наносить огромный урон по цели."/>
+	<Translation Original="No Recoil" Replace="Без отдачи"/>
+	<Translation Original="No Weapon recoil." Replace="Отключить отдачу оружия"/>
+	<Translation Original="Explosive Melee" Replace="Кулаки ярости"/>
+	<Translation Original="Power fists." Replace="При ударах кулаками или оружием ближнего боя"/>
+	<Translation Original="Explosions on melee damage. [F12] assign Hotkey" Replace="происходит взрыв. [F12] Назначить горячую клавишу"/>
+	<Translation Original="No Parachutes" Replace="Без парашута"/>
+	<Translation Original="Disable unlimited parachutes." Replace="Отключает бесконечные парашуты."/>
 	
+	<!---Главное меню -> Оружие -> Управление оружием--->
+	<Translation Original="Weapon Camo" Replace="Оружейный камуфляж"/>
+	<Translation Original="Modify your weapon color." Replace="Изменить раскраску для вашего оружия."/>
+	<Translation Original="Give all Weapons" Replace="Получить все оружие"/>
+	<Translation Original="Give yourself all weapons." Replace="Получить все оружие"/>
+	<Translation Original="Give Digiscanner" Replace="Получить Digiscanner"/>
+	<Translation Original="Give Briefcase" Replace="Получить портфель"/>
+	<Translation Original="Remove all Weapons" Replace="Удалить все оружие"/>
+	<Translation Original="Drop current Weapon" Replace="Выкинуть текущее оружие"/>
+	<Translation Original="Drop your current held weapon." Replace="Выкинуть ваше текущее оружие в руках."/>
+	<Translation Original="Upgrade (all weapons)" Replace="Прокачать (все оружие)"/>
+	<Translation Original="Upgrade all weapons." Replace="Прокачать все оружие."/>
+	<Translation Original="Upgrade (current weapon)" Replace="Прокачать (текущее оружие)"/>
+	<Translation Original="Upgrade current hold weapon." Replace="Прокачать текущее оружие в руках."/>
+	<Translation Original="Fill Ammo" Replace="Заполнить боеприпасы"/>
+	<Translation Original="Add ammo to current weapon." Replace="Добавить боеприпасы к текущему оружию."/>
+	<Translation Original="Melee" Replace="Оружие ближнего боя"/>
+	<Translation Original="Handguns" Replace="Пистолеты"/>
+	<Translation Original="Submachine Guns" Replace="Пистолеты-пулеметы"/>
+	<Translation Original="Shotguns" Replace="Дробовики"/>
+	<Translation Original="Assault Rifles" Replace="Штурмовые винтовки"/>
+	<Translation Original="Sniper Rifles" Replace="Снайперские винтовки"/>
+	<Translation Original="Heavy Weapons" Replace="Тяжелое оружие"/>
+	<Translation Original="Throwables" Replace="Метательное оружие"/>
+	<Translation Original="Misc" Replace="Разное"/>
+	
+	<!---Главное меню -> Оружие -> Управление оружием -> Оружейный камуфляж--->
+	<Translation Original="Custom Crosshair" Replace="Особый прицел"/>
+	<Translation Original="Set a custom crosshair." Replace="Устанавливает особый прицел."/>
+	<Translation Original="Dart" Replace="Дротик"/>
+	<Translation Original="Dart zoomed" Replace="Дротик увеличенный"/>
+	<Translation Original="Arrow" Replace="Стрелка"/>
+	<Translation Original="Target" Replace="Цель"/>
+	<Translation Original="Dot" Replace="Точка"/>
+	<Translation Original="Plus" Replace="Плюс"/>
+	<Translation Original="Crosshair Color" Replace="Цвет прицела"/>
+	<Translation Original="Army" Replace="Армейский"/>
+	<Translation Original="Gold" Replace="Золотой"/>
+	<Translation Original="Green" Replace="Зеленый"/>
+	<Translation Original="Orange" Replace="Оранжевый"/>
+	<Translation Original="Pink" Replace="Розовый"/>
+	<Translation Original="Platinum" Replace="Платиновый"/>
+	<Translation Original="Rainbow Weapons" Replace="ЛГБТ Пушка"/>
+	<Translation Original="Rainbow all weapons." Replace="Все оружие радужное."/>
+	<Translation Original="Camo" Replace="Камуфляж"/>
 	
 	<Translation Original="Customize Rampage to your own like." Replace="Настраивайте Rampage по своему вкусу."/>
 	<Translation Original="Unload All" Replace="Выгрузить всё"/>	
