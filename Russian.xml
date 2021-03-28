@@ -1,5 +1,5 @@
 <Table>
-	<Meta Author="Canek77 ameba_splinter"/>
+	<Meta Author="Canek77 and ameba_splinter"/>
 	<!---Главное меню---->
 	<Translation Original="Player" Replace="Игрок"/>
 	<Translation Original="Options that affect your player." Replace="Опции, которые влияют на игрока."/>
@@ -466,6 +466,43 @@
 	<Translation Original="Rainbow Weapons" Replace="ЛГБТ Пушка"/>
 	<Translation Original="Rainbow all weapons." Replace="Все оружие радужное."/>
 	<Translation Original="Camo" Replace="Камуфляж"/>
+	
+	<!---Главное меню -> Оружие -> Модификаторы стрельбы--->
+	<Translation Original="Explosion Type" Replace="Тип взрыва"/>
+	<Translation Original="Change explosion type on impact." Replace="Изменение типа взрыва при выстреле."/>
+	<Translation Original="Bullet Type" Replace="Тип пуль"/>
+	<Translation Original="Change bullet type." Replace="Изменить тип пуль."/>
+	<Translation Original="PTFX Gun" Replace="PTFX Пушка"/>
+	<Translation Original="PTFX effect on bullet impact." Replace="PTFX эффекты при выстреле."/>
+	<Translation Original="Coords Gun" Replace="Координатная пушка"/>
+	<Translation Original="Returns impact coords." Replace="Возвращает координты выстрела."/>
+	<Translation Original="Airstrike Gun" Replace="Артиллерия"/>
+	<Translation Original="Airstrike on impact coords." Replace="Артиллерийский выстрел по координатам выстрела."/>
+	<Translation Original="Remote Rocket" Replace="Дистанционная ракета"/>
+	<Translation Original="Remote-Control a rocket." Replace="Ракета дистанционного управления."/>
+	<Translation Original="Ped Gun" Replace="Ped пушка"/>
+	<Translation Original="Shoot peds." Replace="Выстреливать пешеходами."/>
+	<Translation Original="Vehicle Gun" Replace="Транпортная пушка"/>
+	<Translation Original="Shoot vehicles." Replace="Выстреливать транспортом."/>
+	
+	<!---Главное меню -> Оружие -> Aimbot--->
+	<Translation Original="Targeting Mode" Replace="Режим прицеливания"/>
+	<Translation Original="Set's player targeting mode." Replace="Режим авто прицеливания игрока."/>
+	<Translation Original="Assisted Aiming only affects controller." Replace="Вспомогательное прицеливание актуально только для геймпада."/>
+	<Translation Original="Triggerbot" Replace="Триггербот"/>
+	<Translation Original="Enable triggerbot." Replace="Включить триггербот. Подсветка цели."/>
+	<Translation Original="Enable aimbot." Replace="Включить aimbot."/>
+	<Translation Original="Priorize" Replace="Приоритет"/>
+	<Translation Original="Auto Shoot" Replace="Авто выстрел"/>
+	<Translation Original="Aimbot will shoot on targets." Replace="Aimbot будет стрелять автоматически."/>
+	
+	<!---Главное меню -> Оружие -> Настройка оружия--->
+	<Translation Original="Damage Modifier" Replace="Модификатор урона"/>
+	<Translation Original="Vehicle Damage Modifier" Replace="Модификатор урона по транспорту"/>
+	<Translation Original="Melee Modifier" Replace="Модификатор урона ближнего боя"/>
+	<Translation Original="Defense Modifier" Replace="Модификатор защиты"/>
+	<Translation Original="Accuracy" Replace="Точность"/>
+	<Translation Original="Set player weapon accuracy." Replace="Установить точность оружия игрока."/>
 	
 	<Translation Original="Customize Rampage to your own like." Replace="Настраивайте Rampage по своему вкусу."/>
 	<Translation Original="Unload All" Replace="Выгрузить всё"/>	
