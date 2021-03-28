@@ -1,5 +1,5 @@
 <Table>
-	<Meta Author="Canek77 v.1.1"/>
+	<Meta Author="GTARus v.1.0b"/>
 	<!---Главное меню---->
 	<Translation Original="Player" Replace="Игрок"/>
 	<Translation Original="Options that affect your player." Replace="Опции, которые влияют на игрока."/>
@@ -28,6 +28,14 @@
 	<Translation Original="Core" Replace="Основные"/>
 	<Translation Original="Manage essential features." Replace="Настройка основных опций."/>
 	<Translation Original="Window Manager" Replace="Оконный менеджер"/>
+	<Translation Original="Open Log" Replace="Открыть журнал"/>
+	<Translation Original="Open Sysinfo" Replace="Открыть системную информацию"/>	
+	<Translation Original="Open Performance" Replace="Открыть производительность"/>	
+	<Translation Original="Open Hotkeys" Replace="Открыть горячие клавиши"/>	
+	
+	<Translation Original="Close all" Replace="Закрыть все"/>	
+	<Translation Original="Reset Windows" Replace="Сбросить окна"/>
+	
 	<Translation Original="Open various windows." Replace="Отобразить/Скрыть окна с дополнительной информацией."/>
 	<Translation Original="Extended UI" Replace="Пользовательский интерфейс"/>
 	<Translation Original="Toggle extended interface features." Replace="Расширенная настройка интерфейса."/>
@@ -185,6 +193,7 @@
 	<Translation Original="Send Console Message" Replace="Отправить консольное сообщение"/>
 	<Translation Original="About Rampage" Replace="О Rampage"/>
 	<Translation Original="Script Monitor" Replace="Мониторинг скриптов"/>
+	<Translation Original="Total Scripts: 918" Replace="Всего скриптов: 918"/>	
 	<Translation Original="Script Terminator" Replace="Остановка скриптов"/>
 	<Translation Original="Script Loader" Replace="Загрузчик скриптов"/>
 
@@ -229,6 +238,7 @@
 	<Translation Original="Moods" Replace="Настроение"/>
 	<Translation Original="Animations" Replace="Анимация"/>
 	<Translation Original="Scenarios" Replace="Сценарий"/>
+	<Translation Original="Stop Playing" Replace="Остановить воспроизведение"/>		
 	<Translation Original="Effects" Replace="Эффекты"/>
 	<Translation Original="Player Proofs" Replace="Игровые пруфы"/>
 	<Translation Original="Toggles" Replace="Режимы"/>
@@ -303,12 +313,61 @@
 	<Translation Original="Weather" Replace="Погода"/>
 	<Translation Original="Ocean" Replace="Океан"/>
 	<Translation Original="Gravity" Replace="Гравитация"/>
+	<Translation Original="Ped Manager" Replace="Пед менеджер"/>
+	<Translation Original="Vehicle Manager" Replace="Менеджер по транспорту"/>
+	<Translation Original="Object Manager" Replace="Диспетчер объеков"/>
+	<Translation Original="ESP" Replace="ESP"/>	
+	<Translation Original="Object Scanner" Replace="Сканер объектов"/>
+	<Translation Original="Delete All" Replace="Удалить всё"/>	
+	<Translation Original="Model Swapping" Replace="Замена модели"/>
+	<Translation Original="Tornado & Black Hole" Replace="Торнадо и черная дыра"/>
+	<Translation Original="Meteor Shower" Replace="Метеоритный дождь"/>	
+	<Translation Original="Tornado" Replace="Торнадо"/>
+	<Translation Original="Enable" Replace="Включить"/>	
+	<Translation Original="black hole" Replace="Черная дыра"/>	
+	<Translation Original="Delete entities" Replace="Удалить объекты"/>	
+	<Translation Original="attraction settings" Replace="Настройки аттракциона"/>		
+	<Translation Original="Jumparound Mode" Replace="Прыгающий режим"/>
+	<Translation Original="Firework Mode" Replace="Режим фейерверка"/>	
+	<Translation Original="Radar" Replace="Радар"/>
+	<Translation Original="Decrease Ped Population" Replace="Уменьшить популяцию людей"/>
+	<Translation Original="Decrease Vehicle Population" Replace="Уменьшить количество транспорта"/>
+	<Translation Original="Delete World Pickups" Replace="Удалить мировые пакеты"/>
+	<Translation Original="Refresh Interior" Replace="Обновить интерьер"/>
+	<Translation Original="Clear Area Scale" Replace="Очистить масштаб арены"/>
+	<Translation Original="Clear Area" Replace="Очистить арену"/>
+	<Translation Original="No restricted zones" Replace="Нет запретных зон"/>
+	<Translation Original="Rain Rockets" Replace="Ракетный дождь"/>
+	<Translation Original="Blackout" Replace="Полная тьма"/>
 	
 	<!---Главное меню -> Мир -> Время--->
 	<Translation Original="Hour" Replace="Час"/>
 	<Translation Original="Minute" Replace="Минута"/>
 	<Translation Original="Second" Replace="Секунда"/>	
 	<Translation Original="Stop Time" Replace="Остановить время"/>	
+	<Translation Original="Stop current Time." Replace="Остановить текущее время."/>
+	<Translation Original="Time Cycle" Replace="Цикл времени"/>
+	<Translation Original="Time speed." Replace="Скорость времени."/>	
+	<Translation Original="Set Time" Replace="Установить время"/>	
+	<Translation Original="Set custom time." Replace="Установить собственное время."/>	
+	<Translation Original="Sunrise" Replace="Восход"/>	
+	<Translation Original="Clock set to 6:00 am" Replace="Часы установлены на 6:00 утра."/>	
+	<Translation Original="Midday" Replace="Полдень"/>
+	<Translation Original="Clock set to 12:15 pm" Replace="Часы установлены на 12:15 вечера."/>	
+	<Translation Original="Sunset" Replace="Закат"/>	
+	<Translation Original="Clock set to 19:19 pm" Replace="Часы установлены на 19:19 вечера."/>	
+	<Translation Original="Midnight" Replace="Полночь"/>	
+	<Translation Original="Clock set to 23:23 pm" Replace="Часы установлены на 23:23 ночи."/>	
+	<Translation Original="Sync System Time" Replace="Синхронизировать с системным временем"/>
+	<Translation Original="Sync's game time with real time." Replace="Синхронизация игрового времени с реальным."/>
+
+	<Translation Original="Timelapse" Replace="Промежуток времени"/>	
+	<Translation Original="Timelapse mode" Replace="Режим замедленной съемки"/>	
+	<Translation Original="Mid" Replace="Средне"/>	
+	<Translation Original="Slow" Replace="Медленно"/>	
+	<Translation Original="Fast" Replace="Быстро"/>		
+	<Translation Original="Timelapse Toggle" Replace="Переключатель таймлапса"/>
+	<Translation Original="World time transition." Replace="Перевод мирового времени."/>
 	
 	<!---Главное меню -> Оружие--->
 	<Translation Original="Manage Weapons" Replace="Управление оружием"/>	
@@ -342,9 +401,161 @@
 	<Translation Original="Debug info on aimed entity." Replace="Дополнительная информация о объекте в прицеле."/>
 	<Translation Original="Delete Gun" Replace="Удаляющая пушка"/>
 	<Translation Original="Delete aimed entity." Replace="Удаляет объект в прицеле."/>
+	<Translation Original="Revive dead people." Replace="Воскрешает мертвых пешеходов. Используйте электро-"/>
+	<Translation Original="Use Tazer for function. [F12] assign Hotkey" Replace="шокер для воскрешения. [F12] Назначить горячую клавишу"/>
+	<Translation Original="Gravity Gun" Replace="Гравитационная пушка"/>
+	<Translation Original="Move aimed entities." Replace="Перемещает объект в прицеле."/>
+	<Translation Original="Magnet Gun" Replace="Магнитная пушка"/>
+	<Translation Original="Attract nearby vehicles and peds." Replace="Собирает близжайший транспорт и пешеходов в область прицеливаньия."/>
+	<Translation Original="Pickup Gun" Replace="Перемещающая пушка"/>
+	<Translation Original="Pickup entities and move them around." Replace="Подтягивает объекты и перемещает их."/>
+	<Translation Original="Portal Gun" Replace="Пушка из игры Portal"/>
+	<Translation Original="Set two teleport portals." Replace="Устанавливает два телепорта."/>
+	<Translation Original="[Shift] or [A] on pad to switch portal creation. [F12] assign Hotkey" Replace="[Shift] или [A] на геймпаде выбирает следующий портал."/>
+	<Translation Original="Force Gun" Replace="Силовая пушка"/>
+	<Translation Original="Apply force to impact entity." Replace="Толкнуть объект после выстрела."/>
+	<Translation Original="Vehicle Paint Gun" Replace="Пушка для раскраски тачек"/>
+	<Translation Original="Paint impact vehicle." Replace="Меняет цвет авто случайным образом."/>
+	<Translation Original="Drive It Gun" Replace="Пушка телепорт в тачку"/>
+	<Translation Original="Teleport into impact vehicle." Replace="Телепортирует прямо в выстреленный транспорт."/>
+	<Translation Original="Weapon Laser" Replace="Лазер на оружие"/>
+	<Translation Original="Laser sight on aiming." Replace="Лазерная подстветка цели."/>
+	<Translation Original="Explosive Ammo" Replace="Разрывные боеприпасы"/>
+	<Translation Original="Shoot explosive bullets." Replace="Пули взрываются при попадании."/>
+	<Translation Original="Fire Ammo" Replace="Зажигательные боеприпасы"/>
+	<Translation Original="Shoot fire bullets." Replace="Пуля поджигает цель после попадания."/>
+	<Translation Original="One Hit Kill" Replace="Одно попадание для убийства"/>
+	<Translation Original="High Damage." Replace="Наносить огромный урон по цели."/>
+	<Translation Original="No Recoil" Replace="Без отдачи"/>
+	<Translation Original="No Weapon recoil." Replace="Отключить отдачу оружия"/>
+	<Translation Original="Explosive Melee" Replace="Кулаки ярости"/>
+	<Translation Original="Power fists." Replace="При ударах кулаками или оружием ближнего боя"/>
+	<Translation Original="Explosions on melee damage. [F12] assign Hotkey" Replace="происходит взрыв. [F12] Назначить горячую клавишу"/>
+	<Translation Original="No Parachutes" Replace="Без парашута"/>
+	<Translation Original="Disable unlimited parachutes." Replace="Отключает бесконечные парашуты."/>
 	
+	<!---Главное меню -> Оружие -> Управление оружием--->
+	<Translation Original="Weapon Camo" Replace="Оружейный камуфляж"/>
+	<Translation Original="Modify your weapon color." Replace="Изменить раскраску для вашего оружия."/>
+	<Translation Original="Give all Weapons" Replace="Получить все оружие"/>
+	<Translation Original="Give yourself all weapons." Replace="Получить все оружие"/>
+	<Translation Original="Give Digiscanner" Replace="Получить Digiscanner"/>
+	<Translation Original="Give Briefcase" Replace="Получить портфель"/>
+	<Translation Original="Remove all Weapons" Replace="Удалить все оружие"/>
+	<Translation Original="Drop current Weapon" Replace="Выкинуть текущее оружие"/>
+	<Translation Original="Drop your current held weapon." Replace="Выкинуть ваше текущее оружие в руках."/>
+	<Translation Original="Upgrade (all weapons)" Replace="Прокачать (все оружие)"/>
+	<Translation Original="Upgrade all weapons." Replace="Прокачать все оружие."/>
+	<Translation Original="Upgrade (current weapon)" Replace="Прокачать (текущее оружие)"/>
+	<Translation Original="Upgrade current hold weapon." Replace="Прокачать текущее оружие в руках."/>
+	<Translation Original="Fill Ammo" Replace="Заполнить боеприпасы"/>
+	<Translation Original="Add ammo to current weapon." Replace="Добавить боеприпасы к текущему оружию."/>
+	<Translation Original="Melee" Replace="Оружие ближнего боя"/>
+	<Translation Original="Handguns" Replace="Пистолеты"/>
+	<Translation Original="Submachine Guns" Replace="Пистолеты-пулеметы"/>
+	<Translation Original="Shotguns" Replace="Дробовики"/>
+	<Translation Original="Assault Rifles" Replace="Штурмовые винтовки"/>
+	<Translation Original="Sniper Rifles" Replace="Снайперские винтовки"/>
+	<Translation Original="Heavy Weapons" Replace="Тяжелое оружие"/>
+	<Translation Original="Throwables" Replace="Метательное оружие"/>
+	<Translation Original="Misc" Replace="Разное"/>
+	
+	<!---Главное меню -> Оружие -> Управление оружием -> Оружейный камуфляж--->
+	<Translation Original="Custom Crosshair" Replace="Особый прицел"/>
+	<Translation Original="Set a custom crosshair." Replace="Устанавливает особый прицел."/>
+	<Translation Original="Dart" Replace="Дротик"/>
+	<Translation Original="Dart zoomed" Replace="Дротик увеличенный"/>
+	<Translation Original="Arrow" Replace="Стрелка"/>
+	<Translation Original="Target" Replace="Цель"/>
+	<Translation Original="Dot" Replace="Точка"/>
+	<Translation Original="Plus" Replace="Плюс"/>
+	<Translation Original="Crosshair Color" Replace="Цвет прицела"/>
+	<Translation Original="Army" Replace="Армейский"/>
+	<Translation Original="Gold" Replace="Золотой"/>
+	<Translation Original="Green" Replace="Зеленый"/>
+	<Translation Original="Orange" Replace="Оранжевый"/>
+	<Translation Original="Pink" Replace="Розовый"/>
+	<Translation Original="Platinum" Replace="Платиновый"/>
+	<Translation Original="Rainbow Weapons" Replace="ЛГБТ Пушка"/>
+	<Translation Original="Rainbow all weapons." Replace="Все оружие радужное."/>
+	<Translation Original="Camo" Replace="Камуфляж"/>
+	
+	<!---Главное меню -> Оружие -> Модификаторы стрельбы--->
+	<Translation Original="Explosion Type" Replace="Тип взрыва"/>
+	<Translation Original="Change explosion type on impact." Replace="Изменение типа взрыва при выстреле."/>
+	<Translation Original="Bullet Type" Replace="Тип пуль"/>
+	<Translation Original="Change bullet type." Replace="Изменить тип пуль."/>
+	<Translation Original="PTFX Gun" Replace="PTFX Пушка"/>
+	<Translation Original="PTFX effect on bullet impact." Replace="PTFX эффекты при выстреле."/>
+	<Translation Original="Coords Gun" Replace="Координатная пушка"/>
+	<Translation Original="Returns impact coords." Replace="Возвращает координты выстрела."/>
+	<Translation Original="Airstrike Gun" Replace="Артиллерия"/>
+	<Translation Original="Airstrike on impact coords." Replace="Артиллерийский выстрел по координатам выстрела."/>
+	<Translation Original="Remote Rocket" Replace="Дистанционная ракета"/>
+	<Translation Original="Remote-Control a rocket." Replace="Ракета дистанционного управления."/>
+	<Translation Original="Ped Gun" Replace="Ped пушка"/>
+	<Translation Original="Shoot peds." Replace="Выстреливать пешеходами."/>
+	<Translation Original="Vehicle Gun" Replace="Транпортная пушка"/>
+	<Translation Original="Shoot vehicles." Replace="Выстреливать транспортом."/>
+	
+	<!---Главное меню -> Оружие -> Aimbot--->
+	<Translation Original="Targeting Mode" Replace="Режим прицеливания"/>
+	<Translation Original="Set's player targeting mode." Replace="Режим авто прицеливания игрока."/>
+	<Translation Original="Assisted Aiming only affects controller." Replace="Вспомогательное прицеливание актуально только для геймпада."/>
+	<Translation Original="Triggerbot" Replace="Триггербот"/>
+	<Translation Original="Enable triggerbot." Replace="Включить триггербот. Подсветка цели."/>
+	<Translation Original="Enable aimbot." Replace="Включить aimbot."/>
+	<Translation Original="Priorize" Replace="Приоритет"/>
+	<Translation Original="Auto Shoot" Replace="Авто выстрел"/>
+	<Translation Original="Aimbot will shoot on targets." Replace="Aimbot будет стрелять автоматически."/>
+	
+	<!---Главное меню -> Оружие -> Настройка оружия--->
+	<Translation Original="Damage Modifier" Replace="Модификатор урона"/>
+	<Translation Original="Vehicle Damage Modifier" Replace="Модификатор урона по транспорту"/>
+	<Translation Original="Melee Modifier" Replace="Модификатор урона ближнего боя"/>
+	<Translation Original="Defense Modifier" Replace="Модификатор защиты"/>
+	<Translation Original="Accuracy" Replace="Точность"/>
+	<Translation Original="Set player weapon accuracy." Replace="Установить точность оружия игрока."/>
 	
 	<Translation Original="Customize Rampage to your own like." Replace="Настраивайте Rampage по своему вкусу."/>
 	<Translation Original="Unload All" Replace="Выгрузить всё"/>	
 	<Translation Original="Reload List" Replace="Обновить список"/>	
+	
+		<!---Главное меню -> Транспорт--->
+	<Translation Original="Customize" Replace="Персонализация"/>
+	
+	<Translation Original="Class" Replace="Класс"/>
+	<Translation Original="Hash" Replace="Хеш"/>
+	<Translation Original="Engine Health" Replace="Состояние двигателя"/>	
+	<Translation Original="Body Health" Replace="Состояние транспорта"/>
+	<Translation Original="Dirt Level" Replace="Уровень грязи"/>
+	<Translation Original="Max Speed" Replace="Макс. скорость"/>
+	<Translation Original="Weapons" Replace="Оружие"/>		
+	<Translation Original="Vehicle Handling" Replace="Обработка транспорта"/>	
+	<Translation Original="Vehicle Acrobatics" Replace="Акробатика транспорта"/>
+	<Translation Original="Acrobatics" Replace="Акробатика"/>
+	<Translation Original="Add Parachute" Replace="Добавить парашют"/>	
+	
+	<Translation Original="Ramp Creator" Replace="Создатель рампы"/>
+	<Translation Original="Speedometer" Replace="Спидометр"/>
+	<Translation Original="Chauffeur" Replace="Водитель"/>
+	<Translation Original="Vehicle Weapons" Replace="Транспортное оружие"/>
+	<Translation Original="Blip" Replace="Вспышка"/>
+	<Translation Original="Vehicle Al" Replace="Транспорт Al"/>
+	<Translation Original="Autopilot" Replace="Автопилот"/>	
+	<Translation Original="Please enter a plane." Replace="Пожалуйста, войдите в самолет."/>	
+	<Translation Original="Vehicle PTFX" Replace="Транспорт PTFX"/>		
+    <Translation Original="Vehicle Doors" Replace="Двери транспорта"/>	
+    <Translation Original="Doors" Replace="Двери"/>	
+    <Translation Original="Driver Door" Replace="Водительская дверь"/>	
+    <Translation Original="Passenger Door" Replace="Пассажирская дверь"/>	
+    <Translation Original="Rear Left" Replace="Задняя левая"/>	
+    <Translation Original="Rear Right" Replace="Задняя правая"/>	
+    <Translation Original="Hood" Replace="Капот"/>	
+    <Translation Original="Trunk" Replace="Багажник"/>	
+    <Translation Original="All" Replace="Открыть все"/>		
+    <Translation Original="Ghost Vehicle" Replace="Призрачный транспорт"/>
+
+    <Translation Original="Clone Vehicle" Replace="Клонировать транспорт"/>
+    <Translation Original="Delete Vehicle" Replace="Удалить транспорт"/>	
 </Table>
