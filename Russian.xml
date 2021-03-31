@@ -521,7 +521,7 @@
 	<Translation Original="Unload All" Replace="Выгрузить всё"/>	
 	<Translation Original="Reload List" Replace="Обновить список"/>	
 	
-		<!---Главное меню -> Транспорт--->
+	<!---Главное меню -> Транспорт--->
 	<Translation Original="Customize" Replace="Персонализация"/>
 	
 	<Translation Original="Class" Replace="Класс"/>
@@ -555,7 +555,70 @@
     <Translation Original="Trunk" Replace="Багажник"/>	
     <Translation Original="All" Replace="Открыть все"/>		
     <Translation Original="Ghost Vehicle" Replace="Призрачный транспорт"/>
+	
 
     <Translation Original="Clone Vehicle" Replace="Клонировать транспорт"/>
     <Translation Original="Delete Vehicle" Replace="Удалить транспорт"/>	
+	
+	<!---Главное меню -> Телепорт--->
+	<Translation Original="Teleport to Waypoint" Replace="Телепортация на точку маршрута"/>	
+	<Translation Original="Teleport to marker on the map." Replace="Телепортация на точку маршрута, отмеченную на карте."/>	
+	<Translation Original="Parachute to Waypoint" Replace="Парашутный спуск на точку маршрута"/>	
+	<Translation Original="Parachute to marker on the map." Replace="Парашутный спуск на точку маршрута, отмеченную на карте."/>	
+	<Translation Original="Teleport to Objective" Replace="Телепорт к объекту"/>	
+	<Translation Original="Save current location" Replace="Сохранить текущие координаты"/>	
+	<Translation Original="Custom coords" Replace="Пользовательские координаты"/>	
+	<Translation Original="Let's you put in custom coordinates." Replace="Введите ваши координаты вручную."/>	
+	<Translation Original="Load custom location" Replace="Загрузка пользовательских координат"/>	
+	<Translation Original="Folder: GTAV\RampageFiles\Saved Teleports." Replace="Папка: GTAV\RampageFiles\Saved Teleports."/>	
+	<Translation Original="Animation" Replace="Анимация"/>	
+	<Translation Original="Enable Teleport ease animation." Replace="Вид анимации при телепортации."/>	
+	<Translation Original="Story Mode" Replace="Cюжетный режим"/>	
+	<Translation Original="Story related teleports." Replace="Места, связанные с сюжетом."/>	
+	<Translation Original="Apartments" Replace="Квартиры"/>	
+	<Translation Original="Apartment buildings." Replace="Многоквартирные дома."/>	
+	<Translation Original="Shops" Replace="Магазины"/>	
+	<Translation Original="All shops in San Andreas." Replace="Все магазины San Andreas."/>	
+	<Translation Original="Interiors" Replace="Интерьеры"/>	
+	<Translation Original="Common interiors." Replace="Основные интерьеры."/>	
+	<Translation Original="Landmarks" Replace="Достопримечательности"/>	
+	<Translation Original="Most used teleports." Replace="Самые используемые телепорты."/>	
+	<Translation Original="Underwater" Replace="Под водой"/>	
+	<Translation Original="Underwater locations." Replace="Подводные локации."/>	
+	<Translation Original="Glitched" Replace="Глюки"/>	
+	<Translation Original="Map glitches." Replace="Глюки на карте."/>	
+	<Translation Original="IPL Loader" Replace="IPL Загрузчик"/>	
+	<Translation Original="Load IPL's." Replace="Загрузить IPL'ы"/>	
+	<Translation Original="Office Interiors" Replace="Офисные интерьеры"/>	
+	<Translation Original="Import / Export offices." Replace="Импорт / Экспорт офисов."/>	
+	<Translation Original="Forward" Replace="Вперед"/>	
+	<Translation Original="Teleport yourself forward" Replace="Телепортировать игрока вперед."/>	
+	<Translation Original="Backward" Replace="Назад"/>	
+	<Translation Original="Teleport yourself backward" Replace="Телепортировать игрока назад."/>	
+	<Translation Original="Last Vehicle" Replace="Последний транспорт"/>	
+	<Translation Original="Teleport into last driven vehicle." Replace="Телепротироваться в последний управляемый транспорт."/>	
+	<Translation Original="Nearest Vehicle" Replace="Ближайший транспорт"/>	
+	<Translation Original="Teleport into nearest vehicle." Replace="Телепротироваться в ближайший транспорт."/>	
+	<Translation Original="Special" Replace="Особое"/>	
+	<Translation Original="Mount Chiliad" Replace="Гора Chiliad"/>	
+	<Translation Original="Mount Gordo" Replace="Гора Gordo"/>	
+	<Translation Original="Maze Bank Roof" Replace="Крыша банка Maze"/>	
+	<Translation Original="Military Base" Replace="Военная база"/>	
+	<Translation Original="Zancudo Tower" Replace="Башня Zancudo"/>	
+	<Translation Original="Airport" Replace="Аэропорт"/>	
+	<Translation Original="Airport Office" Replace="Офис аэропорта"/>	
+	<Translation Original="Waterfall" Replace="Водопад"/>	
+	<Translation Original="Beach" Replace="Пляж"/>	
+	<Translation Original="Mors Mutual Insurance" Replace="Страхование Mors Mutual"/>	
+	<Translation Original="Human Labs" Replace="Лаборатория Human"/>	
+	<Translation Original="Sandy Shores Airfield" Replace="Аэродром Sandy Shorse"/>	
+	<Translation Original="Acadius Tower" Replace="Башня Acadius"/>	
+	<Translation Original="Race Track" Replace="Гоночная трасса"/>	
+	<Translation Original="Parachute Jump" Replace="Прыжок с парашутом"/>	
+	<Translation Original="High in the Sky" Replace="Самая высокая точка"/>	
+	<Translation Original="Most Northerly Point" Replace="Самая северная точка"/>	
+	<Translation Original="Vinewood Bowl Stage" Replace="Сцена в Vinewood"/>	
+	<Translation Original="Sisyphus Theater Stage" Replace="Сцена сизифского театра"/>	
+	<Translation Original="Dam 1" Replace="Дамба 1"/>	
+	<Translation Original="Dam 2" Replace="Дамба 2"/>	
 </Table>
