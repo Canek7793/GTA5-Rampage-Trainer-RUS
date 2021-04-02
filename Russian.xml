@@ -620,5 +620,89 @@
 	<Translation Original="Vinewood Bowl Stage" Replace="Сцена в Vinewood"/>	
 	<Translation Original="Sisyphus Theater Stage" Replace="Сцена сизифского театра"/>	
 	<Translation Original="Dam 1" Replace="Дамба 1"/>	
-	<Translation Original="Dam 2" Replace="Дамба 2"/>	
+	<Translation Original="Dam 2" Replace="Дамба 2"/>
+	<Translation Original="Cave" Replace="Пещера"/>	
+	<Translation Original="Farest Island North" Replace="Дальний северный осторв"/>
+	<Translation Original="Farest Island South" Replace="Дальний южный остров"/>	
+	<Translation Original="Flight School" Replace="Летная школа"/>
+	<Translation Original="Tram Station" Replace="Трамвайная остановка"/>	
+	<Translation Original="Golf" Replace="Гольф"/>
+	<Translation Original="Stage" Replace="Сцена"/>	
+	<Translation Original="Drift Mountain" Replace="Дрифт гора"/>
+	<Translation Original="Construction Building" Replace="Строящееся здание"/>	
+	<Translation Original="Trevor's Airfield" Replace="Аэродром Тревора"/>
+	<Translation Original="Out To Sea" Replace="В море"/>	
+	<Translation Original="Island" Replace="Остров"/>
+	<Translation Original="Maze Bank Arena Roof" Replace="Арена Maze Bank крыша"/>	
+	<Translation Original="Rebel Radio" Replace="Повстанческое радио"/>
+	<Translation Original="Cannibal Camp" Replace="Лагерь каннибалов"/>	
+	<Translation Original="Cannibal Camp Roof" Replace="Лагерь каннибалов крыша"/>
+	<Translation Original="Cannibal Mountain top" Replace="Лагерь каннибалов вершина горы"/>
+	<Translation Original="Submarine Location" Replace="Пристань подводных лодок"/>
+	
+	<!---Главное меню -> Телепорт -> Сюжетный режим--->
+	<Translation Original="Michael's House" Replace="Дом Майкла"/>
+	<Translation Original="Franklins House (New)" Replace="Дом Франклина (новый)"/>
+	<Translation Original="Franklins's House (Old)" Replace="Дом Франклина (старый)"/>
+	<Translation Original="Trevor's House" Replace="Дом Тревора"/>
+	<Translation Original="Trevor's House (2)" Replace="Дом Тревора (2)"/>
+	<Translation Original="Trevor's Office" Replace="Офис Тревора"/>
+	<Translation Original="Trevers Meth Lab" Replace="Лаборатория метамфетамина Тревора"/>
+	<Translation Original="Floyd's House" Replace="Дом Флойда"/>
+	<Translation Original="Lester's House" Replace="Дом Лестера"/>
+	<Translation Original="Janitors Apartment" Replace="Квартира дворников"/>
+	<Translation Original="Aunt Denise's House" Replace="Дом тёти Дениз"/>
+	<Translation Original="Prison Cell" Replace="Тюремная камера"/>
+	
+	<!---Главное меню -> Телепорт -> Квартиры--->
+	<Translation Original="Eclipse Tower" Replace="Небоскреб Eclipse"/>
+	<Translation Original="Tinsel Tower" Replace="Небоскреб Tinsel"/>
+	<Translation Original="Richmond Heights" Replace="Небоскреб Richmond"/>
+	
+	<!---Главное меню -> Телепорт -> Магазины--->
+	<Translation Original="Deluxe Clothes Store" Replace="Магазин одежды Deluxe"/>
+	<Translation Original="Ponsonbys Clothing" Replace="Одежда Ponsonbys"/>
+	<Translation Original="Barber Shop" Replace="Барбершоп"/>
+	<Translation Original="Tattoo Parlor" Replace="Тату-салон"/>
+	<Translation Original="Mask Shop" Replace="Магазин масок"/>
+	<Translation Original="Shop LTD Gasoline" Replace="Магазин LTD Gasoline"/>
+	<Translation Original="Shop 24/7 Supermarket" Replace="Супермаркет 24/7"/>
+	<Translation Original="Shop Robs Liquor" Replace="Магазин Robs Liquor"/>
+	<Translation Original="Shop Liquor Ace" Replace="Магазин Liquor Ace"/>
+	
+	<!---Главное меню -> Телепорт -> Интерьеры--->
+	<Translation Original="FIB Building Top" Replace="Верхний этаж здания FIB"/>
+	<Translation Original="Eclipse Tower Garage" Replace="Гараж небоскреба Eclipse"/>
+	<Translation Original="Tinsel Tower Garage" Replace="Гараж небоскреба Tinsel"/>
+	<Translation Original="Richmond Garage" Replace="Гараж Richmond"/>
+	<Translation Original="Weazel Garage" Replace="Гараж Weazel"/>
+	<Translation Original="Alta St Garage" Replace="Гараж Alta St"/>
+	<Translation Original="Del Perro Garage" Replace="Гараж Del Perro"/>
+	<Translation Original="Integrity Way Garage" Replace="Гараж Integrity Way"/>
+	<Translation Original="Strip Club" Replace="Стрип-клуб"/>
+	<Translation Original="Prison" Replace="Тюрьма"/>
+	<Translation Original="Vanilla Unicorn Office" Replace="Офис Vanilla Unicorn"/>
+	<Translation Original="Pazific Standard Bank Vault" Replace="Хранилище банка Pazific Standard"/>
+	<Translation Original="Comedy Club" Replace="Комедийный клуб"/>
+	<Translation Original="Humane Labs" Replace="Лаборатория Humane"/>
+	<Translation Original="Humane Labs Tunnel" Replace="Тунель лаборатории Humane"/>
+	<Translation Original="IAA Office" Replace="Офис IAA"/>
+	<Translation Original="Torture Room" Replace="Комната пыток"/>
+	<Translation Original="Mine Shaft" Replace="Шахта Shaft"/>
+	<Translation Original="Secret Tunnel" Replace="Секретный тунель"/>
+	<Translation Original="400k Garage" Replace="Гараж 400k"/>
+	
+	<!---Главное меню -> Телепорт -> Достопримечательности--->
+	<Translation Original="Airport Entrance" Replace="Вход в аэропорт"/>
+	<Translation Original="Airport Runway" Replace="Взлетно-посадочная полоса аэропорта"/>
+	<Translation Original="Altruist Cult Camp" Replace="Лагерь аультруистического культа"/>
+	<Translation Original="Calafia Train Bridge" Replace="Железнодорожный мост Calafia"/>
+	<Translation Original="Cargo Ship" Replace="Грузовое судно"/>
+	<Translation Original="Chumash Historic Family Pier" Replace="Исторический семейный причал Chumash"/>
+	<Translation Original="Del Perro Pier" Replace="Пирс Del Perro"/>
+	<Translation Original="Devin Weston's House" Replace="Дом Девина Уэстона"/>
+	<Translation Original="El Burro Heights" Replace="Высота El Burro"/>
+	<Translation Original="Elysian Island" Replace="Осторв Elysian"/>
+	<Translation Original="Far North San Andreas" Replace="Самая дальняя северная точка San Andreas"/>
+	<Translation Original="Ferris Wheel" Replace="Колесо обозрения"/>
 </Table>
