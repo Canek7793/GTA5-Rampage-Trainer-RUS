@@ -230,50 +230,104 @@
 	
 	<!---Главное меню -> Игрок--->
 	<Translation Original="Wardrobe" Replace="Гардероб"/>
+	<Translation Original="Change your current outfit." Replace="Изменить текущую одежду персонажа."/>
 	<Translation Original="Walk Style" Replace="Стиль ходьбы"/>
-	<Translation Original="Vision" Replace="Видение"/>
+	<Translation Original="Change your current walk style." Replace="Измеить стиль ходьбы текущего персонажа."/>
+	<Translation Original="Vision" Replace="Фильтры для камеры"/>
+	<Translation Original="Change your vision." Replace="Установить фильтр для камеры."/>
+	<Translation Original="Moods" Replace="Настроение"/>
+	<Translation Original="Change your facial expression." Replace="Измеить эмоцию на лице."/>
+	<Translation Original="Animations" Replace="Анимация"/>
+	<Translation Original="Animate your player model." Replace="Анимировать текущего персонажа."/>
+	<Translation Original="Scenarios" Replace="Сценарии"/>
+	<Translation Original="Let your model play scenarios." Replace="Воспроизвести особые сценарии на текущем персонаже."/>
+	<Translation Original="Effects" Replace="Эффекты"/>
+	<Translation Original="Play effects on your player model" Replace="Воспроизвести особые эффекты на текущем персонаже."/>
+	<Translation Original="Player Proofs" Replace="Неуязвимость"/>
+	<Translation Original="Set your player provements." Replace="Установить неуязвимость к определенному виду урона."/>
+	
+	<Translation Original="Toggles" Replace="Режимы"/>
+	<Translation Original="Godmode" Replace="Режим бога"/>
+	<Translation Original="Your player becomes Godmode." Replace="Персонаж станет неуязвим для всех видов урона."/>
+	<Translation Original="Auto Heal" Replace="Авто исцеление"/>
+	<Translation Original="Your player regenerates max health when damaged." Replace="Восстанавливать здоровье, когда персонаж получает урон."/>
+	<Translation Original="Ghostmode" Replace="Режим призрака"/>
+	<Translation Original="Your player becomes Ghostmode." Replace="Персонаж станет призраком."/>
+	<Translation Original="Wanted Level" Replace="Уровень розыска"/>
+	<Translation Original="Set your wanted level." Replace="Установить текущий уровень розыска."/>
+	<Translation Original="Min = 0; Max = 5." Replace="Мин = 0; Макс = 5."/>
+	<Translation Original="Run Speed" Replace="Скорость бега"/>
+	<Translation Original="Set your run level." Replace="Установить скорость бега персонажа."/>
+	<Translation Original="Min = 0.0; Max = 6.0." Replace="Мин = 0.0; Макс = 6.0."/>
+	<Translation Original="Swim Speed" Replace="Скорость плаванья"/>
+	<Translation Original="Set your swim level." Replace="Установить скорость плаванья персонажа."/>
+	<Translation Original="Never Wanted" Replace="Без розыска"/>
+	<Translation Original="Never get wanted." Replace="Персонаж не получает звезд розыска."/>
+	<Translation Original="Cops ignore player" Replace="Копы игнорят игрока"/>
+	<Translation Original="Cops ignore player." Replace="Полицейские не атакуют игрока."/>
+	<Translation Original="No Ragdoll" Replace="Отключить Ragdoll"/>
+	<Translation Original="Disable ped ragdoll on impact or fall." Replace="Отключить Ragdoll при ударе или падении."/>
+	<Translation Original="Super Jump" Replace="Супер прыжок"/>
+	<Translation Original="Your ped can jump higher." Replace="Персонаж сможет прыгать выше."/>
+	<Translation Original="Ultra Jump" Replace="Ультра прыжок"/>
+	<Translation Original="Your ped can jump much higher." Replace="Персонаж сможет прыгать очень высоко."/>
+	<Translation Original="Ultra Run" Replace="Ультра бег"/>
+	<Translation Original="Your ped can run extremely fast." Replace="Персонаж сможет бегать чрезвычайно быстро."/>
+	<Translation Original="To activate press [Shift]. [F12] assign Hotkey" Replace="Для активации нажмите [Shift]."/>
+	<Translation Original="Player Opacity" Replace="Прозрачность игрока"/>
+	<Translation Original="Set your player opacity." Replace="Установить прозрачность персонажа."/>
+	<Translation Original="Min = 0; Max = 255" Replace="Мин = 0; Макс = 255"/>
+	<Translation Original="Unlimited SP" Replace="Безлимитная спецспособность"/>
+	<Translation Original="Gives you unlimited special ability." Replace="Используйте спецспособность персонажа бесконечно."/>
+	<Translation Original="Fly Mode" Replace="Режим полета"/>
+	<Translation Original="Activates fly mode." Replace="Активировать режим полета."/>
+	<Translation Original="Controls: [W] [Space]. [F12] assign Hotkey" Replace="Управление: [W] [Space]. [F12] Назначить горячую клавишу."/>
+	<Translation Original="Superman" Replace="Супермен"/>
+	<Translation Original="Activates superman mode." Replace="Активировать режим супермена."/>
+	<Translation Original="Controls: [W] [A] [S] [D] [Shift]. [F12] assign Hotkey" Replace="Управление: [W] [A] [S] [D] [Shift].  [F12] Назначить горячую клавишу."/>
+	<Translation Original="Collision" Replace="Коллизия"/>
+	<Translation Original="Disable player collision." Replace="Отключить коллизию для игрока."/>
+	<Translation Original="You will fall trough world. [F12] assign Hotkey" Replace="Персонаж будет проваливаться сквозь мир. [F12] Назначить горячую клавишу."/>
+	<Translation Original="Midget Mode" Replace="Режим карлика"/>
+	<Translation Original="Makes player tiny." Replace="Сделать персонажа крошечным."/>
+	<Translation Original="Ped config flag 223 [F12] assign Hotkey" Replace="[F12] Назначить горячую клавишу."/>
+	<Translation Original="Force" Replace="Сила"/>
+	<Translation Original="Use the force." Replace="Используйте силу."/>
+	<Translation Original="Controls: [Num3] & [Num7] [F12] assign Hotkey" Replace="Управление: [Num3] & [Num7]. [F12] Назначить горячую клавишу."/>
+	<Translation Original="Forcefield" Replace="Силовое поле"/>
+	<Translation Original="Push nearby entities away." Replace="Оттолкивать объекты рядом вдаль."/>
+	<Translation Original="Breath Fire" Replace="Огненное дыхание"/>
+	<Translation Original="Breath out fire." Replace="Выдыхать огонь. Управление: [J] или левый стик."/>
+	<Translation Original="Controls: [J] or pull left control stick. [F12] assign Hotkey" Replace="[F12] Назначить горячую клавишу."/>
+	<Translation Original="Show Bones" Replace="Показать скелет"/>
+	<Translation Original="Show Player Bones" Replace="Показать скелет игрока."/>
+	<Translation Original="Heal" Replace="Полное исцеление"/>
+	<Translation Original="Heal yourself." Replace="Исцелить игрока."/>
+	<Translation Original="Full heal + full armor." Replace="Полное здоровье + полная броня."/>
+	<Translation Original="Instant Death" Replace="Моментальная смерть"/>
+	<Translation Original="Kill yourself." Replace="Самоубийство."/>
+	<Translation Original="Instant death." Replace="Моментальная смерть."/>
+	<Translation Original="Clone Player" Replace="Клонировать игрока"/>
+	<Translation Original="Clones your player." Replace="Клонировать игрока."/>
+	<Translation Original="Creates a clone of your current model." Replace="Создать клона вашей текущей модели."/>
+	<Translation Original="Clean Ped" Replace="Очистить одежду"/>
+	<Translation Original="Clean your ped." Replace="Очистить вашего персонажа."/>
+	<Translation Original="Clean's blood and damages." Replace="Очищает кровь и следы урона."/>
+	
+	<!---Главное меню -> Игрок -> Фильтр для камеры--->
 	<Translation Original="Nightvision" Replace="Ночное виденье"/>
 	<Translation Original="Heatvision" Replace="Тепловизор"/>
 	<Translation Original="Clear all" Replace="Очистить все"/>
-	<Translation Original="Moods" Replace="Настроение"/>
-	<Translation Original="Animations" Replace="Анимация"/>
-	<Translation Original="Scenarios" Replace="Сценарий"/>
-	<Translation Original="Stop Playing" Replace="Остановить воспроизведение"/>		
-	<Translation Original="Effects" Replace="Эффекты"/>
-	<Translation Original="Player Proofs" Replace="Игровые пруфы"/>
-	<Translation Original="Toggles" Replace="Режимы"/>
-	<Translation Original="Godmode" Replace="Режим бога"/>
-	<Translation Original="Auto Heal" Replace="Авто исцеление"/>
-	<Translation Original="Ghostmode" Replace="Режим невидимки"/>
-	<Translation Original="Wanted Level" Replace="Уровень розыска"/>
-	<Translation Original="Run Speed" Replace="Скорость бега"/>
-	<Translation Original="Swim Speed" Replace="Скорость плаванья"/>
-	<Translation Original="Never Wanted" Replace="Без розыска"/>
-	<Translation Original="Cops ignore player" Replace="Копы игнорят игрока"/>
+	
+	<!---Главное меню -> Игрок -> Сценарии--->
+	<Translation Original="Stop Playing" Replace="Остановить воспроизведение"/>
+	
+	<!---Главное меню -> Игрок -> Окно Player Info--->
+	<Translation Original="Health" Replace="Здоровье"/>
 	<Translation Original="Bank" Replace="Банк"/>
 	<Translation Original="Speed" Replace="Скорость"/>
 	<Translation Original="Character" Replace="Персонаж"/>
 	<Translation Original="Ammo" Replace="Боеприпасы"/>
-	<Translation Original="Super Jump" Replace="Супер прыжок"/>
-	<Translation Original="Ultra Jump" Replace="Ультра прыжок"/>
-	<Translation Original="Ultra Run" Replace="Ультра бег"/>
-	<Translation Original="Player Opacity" Replace="Прозрачность игрока"/>
-	<Translation Original="Unlimited SP" Replace="Безлимитный SP"/>
-	<Translation Original="Fly Mode" Replace="Режим полета"/>
-	<Translation Original="Superman" Replace="Супермен"/>
-	<Translation Original="Collision" Replace="Столкновение"/>
-	<Translation Original="Midget Mode" Replace="Режим карлика"/>
-	<Translation Original="Force" Replace="Сила"/>
-	<Translation Original="Forcefield" Replace="Силовое поле"/>
-	<Translation Original="Breath Fire" Replace="Огненное дыхание"/>
-	<Translation Original="Show Bones" Replace="Показать скелет"/>
-	<Translation Original="Heal" Replace="Полное исцеление"/>
-	<Translation Original="Health" Replace="Здоровье"/>
-	<Translation Original="Instant Death" Replace="Моментальная смерть"/>
-	<Translation Original="Clone Player" Replace="Клонировать игрока"/>
-	<Translation Original="Clean Ped" Replace="Очистить одежду"/>
-	
-	<!---Главное меню -> Игрок -> Окно Player Info--->
 	<Translation Original="Armour" Replace="Броня"/>
 	<Translation Original="Model" Replace="Модель"/>
 	<Translation Original="Movement" Replace="Передвижение"/>
@@ -568,7 +622,7 @@
 	<Translation Original="Teleport to Objective" Replace="Телепорт к объекту"/>	
 	<Translation Original="Save current location" Replace="Сохранить текущие координаты"/>	
 	<Translation Original="Custom coords" Replace="Пользовательские координаты"/>	
-	<Translation Original="Let's you put in custom coordinates." Replace="Введите ваши координаты вручную."/>	
+	<Translation Original="Let's you put in custom coordinates." Replace="Введите собственные координаты вручную."/>	
 	<Translation Original="Load custom location" Replace="Загрузка пользовательских координат"/>	
 	<Translation Original="Folder: GTAV\RampageFiles\Saved Teleports." Replace="Папка: GTAV\RampageFiles\Saved Teleports."/>	
 	<Translation Original="Animation" Replace="Анимация"/>	
@@ -639,6 +693,9 @@
 	<Translation Original="Cannibal Camp Roof" Replace="Лагерь каннибалов крыша"/>
 	<Translation Original="Cannibal Mountain top" Replace="Лагерь каннибалов вершина горы"/>
 	<Translation Original="Submarine Location" Replace="Пристань подводных лодок"/>
+	<Translation Original="Off" Replace="Отключено"/>
+	<Translation Original="Cam Ease" Replace="Простая камера"/>
+	<Translation Original="Cloud Transition" Replace="Переход через облака"/>
 	
 	<!---Главное меню -> Телепорт -> Сюжетный режим--->
 	<Translation Original="Michael's House" Replace="Дом Майкла"/>
@@ -688,7 +745,7 @@
 	<Translation Original="Humane Labs Tunnel" Replace="Тунель лаборатории Humane"/>
 	<Translation Original="IAA Office" Replace="Офис IAA"/>
 	<Translation Original="Torture Room" Replace="Комната пыток"/>
-	<Translation Original="Mine Shaft" Replace="Шахта Shaft"/>
+	<Translation Original="Mine Shaft" Replace="Шахта"/>
 	<Translation Original="Secret Tunnel" Replace="Секретный тунель"/>
 	<Translation Original="400k Garage" Replace="Гараж 400k"/>
 	
@@ -705,4 +762,78 @@
 	<Translation Original="Elysian Island" Replace="Осторв Elysian"/>
 	<Translation Original="Far North San Andreas" Replace="Самая дальняя северная точка San Andreas"/>
 	<Translation Original="Ferris Wheel" Replace="Колесо обозрения"/>
+	<Translation Original="Fort Zacudo (Opened)" Replace="Форт Zacudo (Открыт)"/>
+	<Translation Original="Fort Zacudo Tower" Replace="Форт Zacudo Башня"/>
+	<Translation Original="Jolene Cranley-Evans Ghost" Replace="Призрак Джолин Крэнли-Эванс"/>
+	<Translation Original="Marlowe Vineyards" Replace="Виноградники Марлоу"/>
+	<Translation Original="McKenzie Airfiled" Replace="Аэродром Маккензи"/>
+	<Translation Original="Merryweather Dock" Replace="Док Merryweather"/>
+	<Translation Original="Mineshaft" Replace="Шахта"/>
+	<Translation Original="Life Invader Building Roof" Replace="Крыша здания Life Invader"/>
+	<Translation Original="NOOSE Headquarters" Replace="Штаб-квартира NOOSE"/>
+	<Translation Original="Pacific Standard Bank" Replace="Банк Pacific Standard"/>
+	<Translation Original="Paleto Bay Pier" Replace="Пирс Paleto Bay"/>
+	<Translation Original="Playboy Mansion" Replace="Особняк Playboy"/>
+	<Translation Original="Police Station" Replace="Полицейский участок"/>
+	<Translation Original="Quarry" Replace="Карьер"/>
+	<Translation Original="Satellite Dishes" Replace="Спутниковые тарелки"/>
+	<Translation Original="Meth Lab" Replace="Лаборатория метамфетамина"/>
+	<Translation Original="Weed Farm" Replace="Ферма Марьиванны"/>
+	<Translation Original="Wind Farm" Replace="Ветряная электростанция"/>
+	
+	<!---Главное меню -> Телепорт -> Под водой--->
+	<Translation Original="Underwater WW2 Tank" Replace="Затонувший танк времен Второй мировой"/>
+	<Translation Original="Dead Sea Monster" Replace="Кости подводного монстра"/>
+	<Translation Original="Underwater UFO" Replace="Подводное НЛО"/>
+	<Translation Original="Underwater Hatch" Replace="Люк под водой"/>
+	<Translation Original="Sunken Plane" Replace="Затонувший самолет"/>
+	<Translation Original="Sunken Cargo Ship" Replace="Затонувший грузовой корабль"/>
+	
+	<!---Главное меню -> Телепорт -> Глюки--->
+	<Translation Original="Building Glitch" Replace="Глюк здания"/>
+	<Translation Original="Inside Store" Replace="Внутри магазина"/>
+	<Translation Original="Vesupucci House" Replace="Дом Весупуччи"/>
+	<Translation Original="City Wall Glitch" Replace="Глюк City Wall"/>
+	<Translation Original="Under the bridge Glitch" Replace="Глюк под мостом"/>
+	<Translation Original="FIB Roof Glitch" Replace="Глюк FIB крыша"/>
+	<Translation Original="Police Station Glitch" Replace="Глюк полицейского участка"/>
+	<Translation Original="Behind Bar In Strip Club" Replace="За баром в Стрип-клубе"/>
+	<Translation Original="Inside Casino" Replace="Внутри казино"/>
+	<Translation Original="Beach House" Replace="Пляжный домик"/>
+	<Translation Original="Under Roof" Replace="Под крышей"/>
+	
+	<!---Главное меню -> Телепорт -> IPL загрузчик--->
+	<Translation Original="Unload all IPLs." Replace="Выгрузить все IPL'ы."/>
+	<Translation Original="Load Custom" Replace="Загрузить пользовательский"/>
+	<Translation Original="Unload Custom" Replace="Выгрузить пользовательский"/>
+	<Translation Original="Load Cayo Perico" Replace="Загрузить Cayo Perico"/>
+	<Translation Original="Teleport to Cayo Perico" Replace="Телепорт в Cayo Perico"/>
+	<Translation Original="Load Diamond Casino" Replace="Загрузить Diamond Casino"/>
+	<Translation Original="Teleport to Diamond Casino" Replace="Телепорт в Diamond Casino"/>
+	<Translation Original="Load North Yankton" Replace="Загрузить North Yankton"/>
+	<Translation Original="Teleport to North Yankton" Replace="Телепорт в North Yankton"/>
+	<Translation Original="Load Porn Yacht" Replace="Загрузить порно яхту"/>
+	<Translation Original="Teleport to Porn Yacht" Replace="Телепорт на порно яхту"/>
+	<Translation Original="Load Aircraft Carrier" Replace="Загрузить Авианосец"/>
+	<Translation Original="Teleport to Aircraft Carrier" Replace="Телепорт на Авианосец"/>
+	<Translation Original="Load Sunken Cargoship" Replace="Загрузить затонувший грузовой корабль"/>
+	<Translation Original="Teleport to Sunken Cargoship" Replace="Телепорт на затонувший грузовой корабль"/>
+	<Translation Original="Load Hospital" Replace="Загрузить больницу"/>
+	<Translation Original="Teleport to Hospital" Replace="Телепорт в больницу"/>
+	<Translation Original="Load Oneil Farm" Replace="Загрузить ферму Oneil"/>
+	<Translation Original="Teleport to Oneil Farm" Replace="Телепорт к ферме Oneil"/>
+	<Translation Original="Load Live Invader Office" Replace="Загрузить офис Live Invader"/>
+	<Translation Original="Teleport to Life Invader Office" Replace="Телепорт в офису Life Invader"/>
+	<Translation Original="Load Ufo" Replace="Загрузить НЛО"/>
+	<Translation Original="Teleport to UFO" Replace="Телепорт к НЛО"/>
+	<Translation Original="Load cBell" Replace="Загрузить cBell"/>
+	<Translation Original="Teleport to cBell" Replace="Телепорт в cBell"/>
+	<Translation Original="Load Lesters Factory Burning" Replace="Загрузить пожар на завдое Лестера"/>
+	<Translation Original="Teleport to Lesters Factory burning" Replace="Телепорт к пожару на завдое Лестера"/>
+	<Translation Original="Load Cargoship" Replace="Загрузить грузовой корабль"/>
+	<Translation Original="Teleport to Cargoship" Replace="Телепорт на грузовой корабль"/>
+	<Translation Original="Load Jewelry Store" Replace="Загрузить ювелирный магазин"/>
+	<Translation Original="Teleport to Jewelry Store" Replace="Телепорт в ювелирный магазин"/>
+	<Translation Original="Load Morgue" Replace="Загрузить морг"/>
+	<Translation Original="Teleport to Morgue" Replace="Телепорт в морг"/>
 </Table>
