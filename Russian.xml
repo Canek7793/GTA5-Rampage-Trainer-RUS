@@ -125,7 +125,7 @@
 	
 	<!---Главное меню -> Спаунер -> Транспорт--->
 	<Translation Original="Options" Replace="Опции"/>
-	<Translation Original="Input model" Replace="Модель ввода"/>
+	<Translation Original="Input model" Replace="Ввести модель"/>
 	<Translation Original="Search Vehicles" Replace="Поиск транспорта"/>
 	<Translation Original="OpenIV Loader" Replace="Загрузить из OpenIV"/>
 	<Translation Original="XML Loader" Replace="Загрузить из XML"/>
@@ -284,7 +284,7 @@
 	<Translation Original="Controls: [W] [Space]. [F12] assign Hotkey" Replace="Управление: [W] [Space]. [F12] Назначить горячую клавишу."/>
 	<Translation Original="Superman" Replace="Супермен"/>
 	<Translation Original="Activates superman mode." Replace="Активировать режим супермена."/>
-	<Translation Original="Controls: [W] [A] [S] [D] [Shift]. [F12] assign Hotkey" Replace="Управление: [W] [A] [S] [D] [Shift].  [F12] Назначить горячую клавишу."/>
+	<Translation Original="Controls: [W] [A] [S] [D] [Shift]. [F12] assign Hotkey" Replace="Управление: [W] [A] [S] [D] [Shift]. [F12] Назначить горячую клавишу."/>
 	<Translation Original="Collision" Replace="Коллизия"/>
 	<Translation Original="Disable player collision." Replace="Отключить коллизию для игрока."/>
 	<Translation Original="You will fall trough world. [F12] assign Hotkey" Replace="Персонаж будет проваливаться сквозь мир. [F12] Назначить горячую клавишу."/>
@@ -313,6 +313,121 @@
 	<Translation Original="Clean Ped" Replace="Очистить одежду"/>
 	<Translation Original="Clean your ped." Replace="Очистить вашего персонажа."/>
 	<Translation Original="Clean's blood and damages." Replace="Очищает кровь и следы урона."/>
+	
+	<!---Главное меню -> Игрок -> Гардероб--->
+	<Translation Original="Model Changer" Replace="Изменить модель"/>
+	<Translation Original="Change your ped model." Replace="Измеить модель персонажа."/>
+	<Translation Original="Outfit Loader" Replace="Загрузчик костюмов"/>
+	<Translation Original="Load custom outfits." Replace="Загрузить пользовательские костюмы."/>
+	<Translation Original="Folder: GTAV\RampageFiles\Outfits" Replace="Папка: GTAV\RampageFiles\Outfits"/>
+	<Translation Original="Wardrobe Cam" Replace="Камера как в гардеробе"/>
+	<Translation Original="Random Components" Replace="Случайная одежда"/>
+	<Translation Original="Generates a random outfit." Replace="Сгенерировать случайный костюм."/>
+	<Translation Original="Default Components" Replace="Одежда по умолчанию"/>
+	<Translation Original="Reset default components." Replace="Установить костюм по-умолчанию."/>
+	<Translation Original="Add Rockstar Logo Gold/Black" Replace="Добавить лого Rockstar Золотое/Черное"/>
+	<Translation Original="Add Rockstar Logo Black/White" Replace="Добавить лого Rockstar Черное/Белое"/>
+	<Translation Original="Add Rockstar Logo Blue/Grey" Replace="Добавить лого Rockstar Голубое/Серое"/>
+	<Translation Original="Add Custom Decal" Replace="Добавить пользовательсккое лого"/>
+	<Translation Original="Drawables" Replace="Одежда"/>
+	<Translation Original="Hats" Replace="Шляпы"/>
+	<Translation Original="Masks" Replace="Маски"/>
+	<Translation Original="Glasses" Replace="Очки"/>
+	<Translation Original="Hair" Replace="Прически"/>
+	<Translation Original="Ears" Replace="Уши"/>
+	<Translation Original="Torso" Replace="Торс"/>
+	<Translation Original="Legs" Replace="Ноги"/>
+	<Translation Original="Accessories" Replace="Аксессуары"/>
+	<Translation Original="Shoes" Replace="Обувь"/>
+	<Translation Original="Accessories 2" Replace="Аксессуары 2"/>
+	<Translation Original="Misc Tops" Replace="Верх (другое)"/>
+	<Translation Original="Armor Draw" Replace="Нарисованная броня"/>
+	<Translation Original="Tops" Replace="Верх"/>
+	
+	<!---Главное меню -> Игрок -> Гардероб -> Изменить модель--->
+	<Translation Original="Addon Peds" Replace="Пользователские модели"/>
+	<Translation Original="Load Custom Ped Models" Replace="Загрузить пользовательские модели персонажа."/>
+	<Translation Original="Only works if you use the AddonPeds mod" Replace="Работает только с установленным модом AddonPeds."/>
+	<Translation Original="No Addon Peds Installed" Replace="Не установлен мод AddonPeds"/>
+	<Translation Original="Player Height, Width" Replace="Высота и ширина игрока"/>
+	<Translation Original="Player Height" Replace="Высота игрока"/>
+	<Translation Original="Set your player height." Replace="Установить высоту игрока."/>
+	<Translation Original="Player Width" Replace="Ширина игрока"/>
+	<Translation Original="Set your player width." Replace="Установить ширину игрока."/>
+	<Translation Original="Enter custom model name or hash." Replace="Введите имя пользовательской модели или хэш."/>
+	<Translation Original="Ped Models" Replace="Модели персонажа"/>
+	<Translation Original="Animal" Replace="Животные"/>
+	<Translation Original="Ambient Female" Replace="Пешеходы женщины"/>
+	<Translation Original="Ambient Male" Replace="Пешеходы мужчины"/>
+	<Translation Original="Cutscene" Replace="Кат сцены"/>
+	<Translation Original="Gang Female" Replace="Жещина бандит"/>
+	<Translation Original="Gang Male" Replace="Мужчина бандит"/>
+	<Translation Original="Story" Replace="Сюжет"/>
+	<Translation Original="Multiplayer" Replace="Мультиплеер"/>
+	<Translation Original="Scenario Female" Replace="Женщины из демо"/>
+	<Translation Original="Scenario Male" Replace="Мужчины из демо"/>
+	<Translation Original="Story Scenario Female" Replace="Женщины из сюжетного демо"/>
+	<Translation Original="Story Scenario Male" Replace="Мужчины из сюжетного демо"/>
+	<Translation Original="Others" Replace="Другие"/>
+	
+	<!---Главное меню -> Игрок -> Гардероб -> Изменить модель -> Модели персонажа--->
+	<Translation Original="Michael" Replace="Майкл"/>
+	<Translation Original="Franklin" Replace="Франклин"/>
+	<Translation Original="Trevor" Replace="Тревор"/>
+	<Translation Original="Freemode Female" Replace="Freemode Женщина"/>
+	<Translation Original="Freemode Male" Replace="Freemode Мужчина"/>
+	<Translation Original="Australian Shepherd" Replace="Австралийский пастух"/>
+	<Translation Original="Boar" Replace="Кабан"/>
+	<Translation Original="Cat" Replace="Кошка"/>
+	<Translation Original="Chimp" Replace="Шимпанзе"/>
+	<Translation Original="Chop" Replace="Чоп"/>
+	<Translation Original="Cormorant" Replace="Баклажан"/>
+	<Translation Original="Cow" Replace="Корова"/>
+	<Translation Original="Coyote" Replace="Койот"/>
+	<Translation Original="Crow" Replace="Ворон"/>
+	<Translation Original="Deer" Replace="Олень"/>
+	<Translation Original="Dolphin" Replace="Дельфин"/>
+	<Translation Original="Fish" Replace="Рыба"/>
+	<Translation Original="Hammerhead Shark" Replace="Акула-молот"/>
+	<Translation Original="Hawk" Replace="Ястреб"/>
+	<Translation Original="Hen" Replace="Курица"/>
+	<Translation Original="Humpback" Replace="Кит-горбун"/>
+	<Translation Original="Husky" Replace="Хаски"/>
+	<Translation Original="Killer Whale" Replace="Кит-убийца"/>
+	<Translation Original="Mountain Lion" Replace="Горный лев"/>
+	<Translation Original="Panther" Replace="Пантера"/>
+	<Translation Original="Pig" Replace="Свинья"/>
+	<Translation Original="Pigeon" Replace="Голубь"/>
+	<Translation Original="Poodle" Replace="Пудель"/>
+	<Translation Original="Pug" Replace="Мопс"/>
+	<Translation Original="Rabbit" Replace="Кролик"/>
+	<Translation Original="Rat" Replace="Крыса"/>
+	<Translation Original="Retriever" Replace="Ретривер"/>
+	<Translation Original="Rhesus" Replace="Макак-резус"/>
+	<Translation Original="Rottweiler" Replace="Ротвейлер"/>
+	<Translation Original="Seagull" Replace="Чайка"/>
+	<Translation Original="Stingray" Replace="Морской скат"/>
+	<Translation Original="Tiger Shark" Replace="Тигровая акула"/>
+	<Translation Original="Westie" Replace="Собачка Westie"/>
+	
+	<!---Главное меню -> Игрок -> Гардероб -> Загрузчик костюмов--->
+	<Translation Original="Save current outfit" Replace="Сохранить текущий костюм"/>
+	<Translation Original="Premade" Replace="Готовые"/>
+	<Translation Original="Bodysuit" Replace="Боди "/>
+	<Translation Original="CDirector" Replace="Директор цирка"/>
+	<Translation Original="Christmas" Replace="Рождество"/>
+	<Translation Original="Epsilon" Replace="Эпсилон"/>
+	<Translation Original="Fireman" Replace="Пожарный"/>
+	<Translation Original="Ghostrider" Replace="Призрачный гонщик"/>
+	<Translation Original="Highway Police" Replace="Дорожная полиция"/>
+	<Translation Original="Juggernaut" Replace="Джаггернаут"/>
+	<Translation Original="Police (freemode)" Replace="Полиция (freemode)"/>
+	<Translation Original="Policeman" Replace="Полицейский"/>
+	<Translation Original="Secret Service" Replace="Секретная служба"/>
+	<Translation Original="Suit" Replace="Костюм"/>
+	<Translation Original="Thron" Replace="Трон"/>
+	<Translation Original="White Smoking" Replace="Белый смокинг"/>
+	<Translation Original="Load Outfit" Replace="Загрузить костюм"/>
 	
 	<!---Главное меню -> Игрок -> Фильтр для камеры--->
 	<Translation Original="Nightvision" Replace="Ночное виденье"/>
@@ -610,7 +725,6 @@
     <Translation Original="All" Replace="Открыть все"/>		
     <Translation Original="Ghost Vehicle" Replace="Призрачный транспорт"/>
 	
-
     <Translation Original="Clone Vehicle" Replace="Клонировать транспорт"/>
     <Translation Original="Delete Vehicle" Replace="Удалить транспорт"/>	
 	
