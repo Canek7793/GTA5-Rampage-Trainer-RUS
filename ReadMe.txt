@@ -4,6 +4,6 @@
 
 Оригинальный английский трейнер можно скачать отсюда: https://ru.gta5-mods.com/scripts/rampage-trainer
 
-Для поддержки донатом: https://www.donationalerts.ru/r/canek77
-
 Над русификатором работают: Canek77, yefan_p (вы также можете присоединиться)
+
+Для поддержки донатом: https://www.donationalerts.ru/r/canek77
