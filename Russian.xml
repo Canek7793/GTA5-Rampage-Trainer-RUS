@@ -1,5 +1,5 @@
 <Table>
-	<Meta Author="GTARus v.1.0b"/>
+	<Meta Author="GTARus v.1.1"/>
 	<!---Главное меню---->
 	<Translation Original="Player" Replace="Игрок"/>
 	<Translation Original="Options that affect your player." Replace="Опции, которые влияют на игрока."/>
@@ -147,7 +147,7 @@
 	<Translation Original="Spawn Max Upgraded" Replace="Получить максимальную модификацию"/>
 	<Translation Original="Bypass" Replace="Обход"/>
 	
-	<Translation Original="Home" Replace="Главное меню"/>
+	<Translation Original="HOME" Replace="ГЛАВНОЕ МЕНЮ"/>	
 	
 	<!---Главное меню -> Разное -> MP3-плеер--->
 	<Translation Original="Plays: -" Replace="Играть: -"/>
@@ -950,4 +950,240 @@
 	<Translation Original="Teleport to Jewelry Store" Replace="Телепорт в ювелирный магазин"/>
 	<Translation Original="Load Morgue" Replace="Загрузить морг"/>
 	<Translation Original="Teleport to Morgue" Replace="Телепорт в морг"/>
+	<Translation Original="SETTINGS" Replace="НАСТРОЙКИ"/>
+	<Translation Original="Load and Save configs." Replace="Загрузить и сохранить конфиги."/>
+	<Translation Original="TRAINER SEARCH" Replace="ПОИСК ТРЕНЕРА"/>
+	<Translation Original="search results" Replace="результаты поиска"/>
+	<Translation Original="CORE SETTINGS" Replace="ОСНОВНЫЕ НАСТРОЙКИ"/>	
+	<Translation Original="Mouse Controls" Replace="Управление мышью"/>
+	<Translation Original="Gamepad Controls" Replace="Управление геймпадом"/>
+	<Translation Original="Tooltip Box" Replace="Всплывающие подсказки"/>
+	<Translation Original="Menu Sounds" Replace="Звуки меню"/>
+	<Translation Original="You have the latest version" Replace="У вас последняя версия"/>
+	<Translation Original="DEBUG" Replace="ОТЛАДКА"/>	
+	<Translation Original="Invoke Command" Replace="Вызвать команду"/>	
+	<Translation Original="Test Feel" Replace="Тестовое ощущение"/>
+	<Translation Original="Test Help Text" Replace="Текст справки по тестированию"/>
+	<Translation Original="Clear Native Cache" Replace="Очистить собственный кэш"/>
+	<Translation Original="Teleport Map" Replace="Карта телепорта"/>
+	<Translation Original="EXTENDED UI" Replace="РАСШИРЕННЫЙ ИНТЕРФЕЙС"/>	
+	<Translation Original="Vehicle Previews" Replace="Превью транспорта"/>	
+	<Translation Original="Invert Colors" Replace="Инвертировать цвета"/>
+	<Translation Original="Color Cycle Mode" Replace="Режим цветового цикла"/>
+	<Translation Original="Smooth Scrolling" Replace="Плавная прокрутка"/>
+	<Translation Original="WINDOW MANAGER" Replace="ОКОННЫЙ МЕНЕДЖЕР"/>
+	<Translation Original="THEME" Replace="ТЕМЫ"/>	
+	<Translation Original="Premade Themes" Replace="Готовые темы"/>	
+	<Translation Original="Header" Replace="Заголовок"/>
+	<Translation Original="Primary" Replace="Первичный"/>
+	<Translation Original="Title Text" Replace="Текст заголовка"/>
+	<Translation Original="Header Color" Replace="Цвет заголовка"/>
+	<Translation Original="Scroller Color" Replace="Цвет скроллера"/>	
+	<Translation Original="X Axis" Replace="Ось X"/>	
+	<Translation Original="Y Axis" Replace="Ось Y"/>
+	<Translation Original="position" Replace="позиция"/>
+	<Translation Original="Custom" Replace="Пользовательский"/>
+	<Translation Original="Interactive Menu" Replace="Интерактивное меню"/>
+	<Translation Original="Animated" Replace="Анимированный"/>	
+	<Translation Original="Red" Replace="Красный"/>	
+	<Translation Original="Blue" Replace="Синий"/>	
+	<Translation Original="Purple" Replace="Фиолетовый"/>	
+	<Translation Original="Dark Purple" Replace="Темно-Фиолетовый"/>
+	<Translation Original="Light Blue" Replace="Светло-синий"/>
+	<Translation Original="Spring Green" Replace="Весенний зеленый"/>
+	<Translation Original="Dark Green" Replace="Темно-зеленый"/>
+	<Translation Original="Cadet Blue" Replace="Кадетский синий"/>	
+	<Translation Original="Navi Blue" Replace="Тёмно-синий"/>	
+	<Translation Original="Frosty Blue" Replace="Морозно-голубой"/>
+	<Translation Original="PLUGIN" Replace="ПЛАГИН"/>
+	<Translation Original="LANGUAGE" Replace="ЯЗЫКИ"/>
+	<Translation Original="HOTKEY MANAGER" Replace="МЕНЕДЖЕР ГОРЯЧИХ КЛАВИШ"/>
+	<Translation Original="Cursor Hotkey" Replace="Горячая клавиша курсора"/>	
+	<Translation Original="Cursor Key" Replace="Клавиша курсора"/>	
+	<Translation Original="Mouse" Replace="Мышь"/>
+	<Translation Original="LOAD / SAVE" Replace="ЗАГРУЗИТЬ / СОХРАНИТЬ"/>
+	<Translation Original="Save Settings" Replace="Сохранить настройки"/>
+	<Translation Original="Load Settings" Replace="Загрузить настройки"/>
+	<Translation Original="Restore Defaults" Replace="Восстановить настройки по умолчанию"/>	
+	<Translation Original="Sync Toggle Config" Replace="Настройка переключения синхронизации"/>	
+	<Translation Original="EDIT YOUR CHARACTER" Replace="ИЗМЕНИТЬ ПЕРСОНАЖ"/>	
+	<Translation Original="Achievements" Replace="Достижения"/>	
+	<Translation Original="Unlock all" Replace="Разблокировать все"/>
+	<Translation Original="ACHIEVEMENTS" Replace="ДОСТИЖЕНИЯ"/>
+	<Translation Original="MONEY" Replace="ДЕНЬГИ"/>
+	<Translation Original="Delay" Replace="Задержка"/>
+	<Translation Original="Amount" Replace="Количество"/>	
+	<Translation Original="Bank Loop" Replace="Банковская петля"/>	
+	<Translation Original="Bank Editor" Replace="Редактор банка"/>
+	<Translation Original="STATS" Replace="СТАТИСТИКА"/>
+	<Translation Original="Max stats" Replace="Макс. статистика"/>
+	<Translation Original="Missions" Replace="Миссии"/>
+	<Translation Original="Shots" Replace="Выстрелы"/>	
+	<Translation Original="Kills" Replace="Убийства"/>	
+	<Translation Original="Deaths" Replace="Смертей"/>
+	<Translation Original="Headshots" Replace="Хедшоты"/>
+	<Translation Original="Completed Missions" Replace="Завершенные миссии"/>
+	<Translation Original="Min" Replace="Мин."/>
+	<Translation Original="Playing Time" Replace="Игровое время"/>	
+	<Translation Original="Completion" Replace="Завершено"/>	
+	<Translation Original="Fastest Speed" Replace="Максимальная скорость"/>	
+	<Translation Original="City Cameras" Replace="Городские камеры"/>	
+	<Translation Original="CITY CAMERAS" Replace="ГОРОДСКИЕ КАМЕРЫ"/>
+	<Translation Original="Toggle" Replace="Тумблер"/>
+	<Translation Original="Custom Input" Replace="Пользовательский ввод"/>
+	<Translation Original="TRAIN" Replace="ПОЕЗД"/>
+	<Translation Original="WORLD" Replace="МИР"/>	
+	<Translation Original="TIME" Replace="ВРЕМЯ"/>	
+	<Translation Original="WEATHER" Replace="ПОГОДА"/>
+	<Translation Original="Reset Weather" Replace="Сбросить погоду"/>
+	<Translation Original="Wind" Replace="Ветрено"/>
+	<Translation Original="Sunny" Replace="Солнечно"/>
+	<Translation Original="Prediction" Replace="Прогноз"/>	
+	<Translation Original="Neutral" Replace="Нейтральный"/>	
+	<Translation Original="Smooth Transition" Replace="Плавный переход"/>
+	<Translation Original="Rain" Replace="Дождь"/>
+	<Translation Original="Snow" Replace="Снег"/>
+	<Translation Original="Halloween" Replace="Хэллоуин"/>
+	<Translation Original="Clearing" Replace="Очистить"/>	
+	<Translation Original="SPOONER" Replace="СПУНЕР"/>	
+	<Translation Original="JSON Loader" Replace="JSON Загрузчик"/>	
+	<Translation Original="Delete Last" Replace="Удалить последнее"/>	
+	<Translation Original="XML LOADER" Replace="XML ЗАГРУЗЧИК"/>
+	<Translation Original="MAP SPOONER" Replace="КАРТА СПУНЕР"/>
+	<Translation Original="SPAWNER" Replace="СПАВНЕР"/>
+	<Translation Original="VEHICLE SPAWNER" Replace="ТРАНСПОРТНЫЙ СПАВНЕР"/>
+	<Translation Original="Spawner Settings" Replace="Настройки спавнера"/>	
+	<Translation Original="Random Model" Replace="Случайная модель"/>	
+	<Translation Original="Favorite Vehicle" Replace="Избранный транспорт"/>
+	<Translation Original="Vehicle DLC List" Replace="Список DLC транспорта"/>
+	<Translation Original="DLC VEHICLE" Replace="DLC ТРАНСПОРТ"/>
+	<Translation Original="SPAWNER SETTINGS" Replace="НАСТРОЙКИ СПАВНЕРА"/>
+	<Translation Original="Delete Old Vehicle" Replace="Удалить старый транспорт"/>	
+	<Translation Original="Spawn In Vehicle" Replace="Появиться в транспорте"/>
+	<Translation Original="Despawn Bypass" Replace="Обход деспавна"/>
+	<Translation Original="TELEPORT" Replace="ТЕЛЕПОРТ"/>
+	<Translation Original="Remove Waypoint" Replace="Удалить точку маршрута"/>
+	<Translation Original="Save Current" Replace="Сохранить текущий"/>	
+	<Translation Original="Personal Vehicle" Replace="Личный транспорт"/>	
+	<Translation Original="VEHICLE" Replace="ТРАНСПОРТ"/>
+	<Translation Original="PLAYER" Replace="ИГРОК"/>
+	<Translation Original="On Foot" Replace="Пешком"/>
+	<Translation Original="Police Ignore" Replace="Полиция игнорирует"/>
+	<Translation Original="Beast Jump" Replace="Прыжок зверя"/>	
+	<Translation Original="Unlimited Special Ability" Replace="Неограниченная спец. способность"/>	
+	<Translation Original="Clip Through Objects" Replace="Обрезать объекты"/>
+	<Translation Original="Refill Health" Replace="Пополнить здоровье"/>
+	<Translation Original="Restore Special Ability" Replace="Восстановить особую способность"/>
+	<Translation Original="Ragdoll" Replace="Тряпичная кукла"/>	
+	<Translation Original="Suicide" Replace="Суицид"/>	
+	<Translation Original="Clear Tasks" Replace="Очистить задачи"/>
+	<Translation Original="PLAYER PROOFS" Replace="ДОКАЗАТЕЛЬСТВА ИГРОКА"/>
+	<Translation Original="Loop" Replace="Петля"/>
+	<Translation Original="EFFECTS" Replace="ЭФФЕКТЫ"/>
+	<Translation Original="MOODS" Replace="НАСТРОЕНИЯ"/>	
+	<Translation Original="VISION" Replace="ВИДЕНИЕ"/>	
+	<Translation Original="Strength" Replace="Прочность"/>	
+	<Translation Original="WALK STYLES" Replace="СТИЛИ ХОДЬБЫ"/>	
+	<Translation Original="OUTFIT LOADER" Replace="ПОГРУЗЧИК ОБОРУДОВАНИЯ"/>
+	<Translation Original="Emblems" Replace="Эмблемы"/>
+	<Translation Original="Head" Replace="Голова"/>
+	<Translation Original="Vehicle AI" Replace="Умный транспорт"/>	
+	<Translation Original="VEHICLE AI" Replace="УМНЫЙ ТРАНСПОРТ"/>	
+	<Translation Original="Drive to Waypoint" Replace="Поездка к путевой точке"/>
+	<Translation Original="Drive Wander" Replace="Ехать бродить"/>
+	<Translation Original="AUTOPILOT" Replace="АВТОПИЛОТ"/>
+	<Translation Original="Vehicle Particles" Replace="Частицы транспорта"/>
+	<Translation Original="Auto-Fix" Replace="Автоисправление"/>	
+	<Translation Original="Vehicle Jump" Replace="Прыжок транспорта"/>
+	<Translation Original="CUSTOM TELEPORT" Replace="ПОЛЬЗОВАТЕЛЬСКИЙ ТЕЛЕПОРТ"/>	
+	<Translation Original="Locations" Replace="Локации"/>	
+	<Translation Original="Custom Location" Replace="Пользовательское местоположение"/>
+	<Translation Original="Statistics" Replace="Статистика"/>
+	<Translation Original="Vehicles" Replace="Транспорта"/>
+	<Translation Original="MULTIPLAYER" Replace="МУЛЬТИПЛЕЕР"/>	
+	<Translation Original="Add Nitro" Replace="Добавить нитро"/>	
+	<Translation Original="checklist" Replace="чек-лист"/>
+	<Translation Original="drop money" Replace="бросать деньги"/>
+	<Translation Original="INI Loader" Replace="INI Загрузчик"/>
+	<Translation Original="Cruise Control" Replace="Круиз-контроль"/>
+	<Translation Original="Force Push" Replace="Толчок силы"/>	
+	<Translation Original="Please enter a vehicle first." Replace="Сначала введите транспортное средство."/>
+	<Translation Original="Slide" Replace="Горка"/>
+	<Translation Original="Acceleration" Replace="Ускорение"/>
+	<Translation Original="HANDLING" Replace="ОБРАЩЕНИЕ"/>
+	<Translation Original="CUSTOMIZE VEHICLE" Replace="ПЕРСОНАЛИЗАЦИЯ ТРАНСПОРТА"/>
+	<Translation Original="Brake" Replace="Тормоз"/>	
+	<Translation Original="INI LOADER" Replace="INI ЗАГРУЗЧИК"/>
+	<Translation Original="JSON LOADER" Replace="JSON ЗАГРУЗЧИК"/>
+	<Translation Original="Load vehicles" Replace="Загрузить транспорта"/>
+	<Translation Original="Stolen Vehicles" Replace="Угнанные транспорта"/>
+	<Translation Original="Money Rain" Replace="Денежный дождь"/>
+	<Translation Original="Money Gun" Replace="Денежный пистолет"/>	
+	<Translation Original="Ped Drop" Replace="Падение пешеходов"/>	
+	<Translation Original="Total Money dropped" Replace="Всего выпало денег"/>
+	<Translation Original="Random Events" Replace="Случайные события"/>
+	<Translation Original="Count" Replace="Подсчет"/>
+	<Translation Original="On Screen" Replace="На экране"/>
+	<Translation Original="WEAPONS" Replace="ОРУЖИЕ"/>
+	<Translation Original="" Replace=""/>
+	<Translation Original="" Replace=""/>
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>
+	<Translation Original="" Replace=""/>
+	<Translation Original="" Replace=""/>
+	<Translation Original="" Replace=""/>
+	<Translation Original="" Replace=""/>	
+	<Translation Original="" Replace=""/>	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 </Table>
